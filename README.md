@@ -105,15 +105,21 @@ Afsan Sarwer is a Doctor of Veterinary Medicine (DVM) and an MS fellow in Microb
 ## Conference Presentations
 
 **23rd SCAC Conference – Fourth Industrial Revolution and Future Society**  
+
 **Location**: National Science & Technology Complex, Dhaka, December 2024  
-**Poster Title**: Livestock Endoparasite Detection with Machine Vision and Deep Learning  
+
+**Poster Title**: _Livestock Endoparasite Detection with Machine Vision and Deep Learning_  
+
 **Authors**: Afsan Sarwer, Md Fahim Shahria  
+
 **Presentation Type**: Poster
 
 ---
 
 ## Additional Courses
 
-- **IBM (through Coursera)**: “Data Analysis with Python”  
-- **Wellcome Connecting Science (FutureLearn)**: “Bacterial Genomes: From DNA to Protein Function using Bioinformatics”  
+- **IBM (through Coursera)**: “Data Analysis with Python”
+  
+- **Wellcome Connecting Science (FutureLearn)**: “Bacterial Genomes: From DNA to Protein Function using Bioinformatics”
+  
 - **Bangladesh Youth Leadership Center (BYLC)**: “CareerX 18”
