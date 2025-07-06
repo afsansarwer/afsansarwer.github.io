@@ -1,58 +1,141 @@
-/* Basic Reset */
-* {
+/* Google Font CDN Link */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+/* Reset and Global Styles */
+*{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Poppins',sans-serif;
+  scroll-behavior: smooth;
 }
 
 body {
-  font-family: 'Arial', sans-serif;
   background-color: #f4f7fc;
   color: #333;
+  line-height: 1.6;
 }
 
-.navbar {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: #004D7A;
-  padding: 12px 0;
-  position: sticky;
+/* Navigation Bar */
+nav {
+  position: fixed;
   top: 0;
   width: 100%;
+  height: 75px;
+  background: #004D7A; /* Deep Blue */
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
   z-index: 100;
 }
 
-.navbar a {
-  color: white;
-  text-decoration: none;
-  padding: 12px 20px;
-  font-size: 14px;
-  transition: background-color 0.3s ease;
-  font-weight: 600;
-  margin-right: 15px;
+nav .navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100%;
+  max-width: 90%;
+  margin: auto;
 }
 
-.navbar a:hover {
-  background-color: #FF5C39;
+nav .navbar .logo a {
+  color: #fff;
+  font-size: 27px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+nav .navbar .menu {
+  display: flex;
+}
+
+.navbar .menu li {
+  list-style: none;
+  margin: 0 15px;
+}
+
+.navbar .menu li a {
+  color: #fff;
+  font-size: 17px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.navbar .menu li a:hover {
+  background-color: #00C8E0; /* Light Blue */
+  padding: 5px 10px;
   border-radius: 5px;
 }
 
 /* Section Styles */
-.section {
-  padding: 50px 20px;
-  margin: 20px 0;
-  border-radius: 8px;
-  background-color: white;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #333;
+  font-size: 70px;
+  padding: 80px 20px;
+  min-height: 100vh;
 }
 
-h2 {
-  color: #004D7A;
-  font-size: 1.5em;
-  margin-bottom: 20px;
+#home {
+  background: #fff;
 }
 
+#summary {
+  background: #f2f2f2;
+}
+
+#contact {
+  background: #e6e6e6;
+}
+
+#education {
+  background: #fff;
+}
+
+#R_interests {
+  background: #f2f2f2;
+}
+
+#R_experience {
+  background: #e6e6e6;
+}
+
+#A_experience {
+  background: #fff;
+}
+
+#skills {
+  background: #f2f2f2;
+}
+
+#conference {
+  background: #e6e6e6;
+}
+
+#A_courses {
+  background: #fff;
+}
+
+/* Button to Scroll to Top */
+.button a {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  color: #fff;
+  background: #004D7A; /* Deep Blue */
+  padding: 12px 18px;
+  font-size: 18px;
+  border-radius: 50%;
+  box-shadow: rgba(0, 0, 0, 0.15);
+  transition: background-color 0.3s ease;
+}
+
+.button a:hover {
+  background: #00C8E0; /* Light Blue */
+}
+
+/* Links Styling */
 a {
   color: #004D7A;
   text-decoration: none;
@@ -62,28 +145,27 @@ a:hover {
   text-decoration: underline;
 }
 
+/* Image and Logo Styling */
 img {
   border-radius: 50%;
+  transition: transform 0.3s ease;
 }
 
-/* Responsive */
+img:hover {
+  transform: scale(1.1);
+}
+
+/* Media Queries */
 @media (max-width: 768px) {
-  .navbar a {
-    font-size: 12px;
+  .navbar .menu li a {
+    font-size: 14px;
     padding: 10px 15px;
   }
 
-  .section {
-    padding: 40px 15px;
-  }
-
-  h2 {
-    font-size: 1.3em;
+  section {
+    font-size: 50px;
+    padding: 60px 20px;
   }
 }
 
-/* Optional: Add smooth scrolling */
-html {
-  scroll-behavior: smooth;
-}
 
