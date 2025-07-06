@@ -70,6 +70,10 @@ Afsan Sarwer is a Doctor of Veterinary Medicine (DVM) and an MS fellow in Microb
   - Collected and annotated images for training the model to detect livestock endoparasites.
   - Evaluated the model using metrics like accuracy, precision, recall, F1-score, and confusion matrix.
 
+<p>
+  <img src="assets/img/conference_result.png" style="width: 250%; max-width: 300px; height: auto; margin: 0 auto; display: block;"/>
+</p>  
+
 ---
 
 ## Additional Experience
@@ -120,10 +124,6 @@ Afsan Sarwer is a Doctor of Veterinary Medicine (DVM) and an MS fellow in Microb
 **Authors**: Afsan Sarwer, Md Fahim Shahria  
 
 **Presentation Type**: Poster  
-
-<p>
-  <img src="assets/img/conference_result.png" style="width: 200%; max-width: 300px; height: auto; margin: 0 auto; display: block;"/>
-</p>  
 
 ---
 
