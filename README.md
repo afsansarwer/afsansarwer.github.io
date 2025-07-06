@@ -54,6 +54,13 @@ Afsan Sarwer is a Doctor of Veterinary Medicine (DVM) and an MS fellow in Microb
   - **Phylogenetic Analysis**: Exploring the phylogenetic relationship among MTR lab strains of *E. coli* to understand their evolutionary context.
   - **Global Comparison**: Comparing MTR lab strains with global datasets including ST, demographic comparisons, MST, and global phylogeny.
 
+ <p>
+  <img src="assets/img/BRIG.png" style="width: 250%; max-width: 300px; height: auto; margin: 0 auto; display: block;"/>
+</p>
+ <p>
+  <img src="assets/img/MTR.png" style="width: 250%; max-width: 300px; height: auto; margin: 0 auto; display: block;"/>
+</p>
+
 ### Independent Research Project | Bangladesh Agricultural University  
   **Title**: Livestock Endoparasite Detection with Machine Vision and Deep Learning  
   **Advisor**: Professor Dr. A K M Anisur Rahman | [Google Scholar Profile](https://scholar.google.com/citations?user=1s72FjoAAAAJ&hl=en)  
