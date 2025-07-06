@@ -1,4 +1,4 @@
-# Afsan Sarwer | Academic Portfolio
+# Academic Portfolio
 
 ## Summary
 Afsan Sarwer is a Doctor of Veterinary Medicine (DVM) and an MS fellow in Microbiology at Bangladesh Agricultural University. Specializing in bioinformatics and whole genome sequencing (WGS), he applies machine learning and deep learning models to advance research. With leadership experience in the non-profit sector, Afsan excels in team management, organizational strategy, and project execution, bridging scientific innovation with impactful community work.
@@ -127,10 +127,12 @@ Afsan Sarwer is a Doctor of Veterinary Medicine (DVM) and an MS fellow in Microb
 
 ---
 
-## Additional Courses
+## Highlighted Certifications  
+
+- **Bangladesh Veterinary Council (BVC)**: Registered Veterinarian, Reg No. 9700
 
 - **IBM (through Coursera)**: “Data Analysis with Python”
   
-- **Wellcome Connecting Science (FutureLearn)**: “Bacterial Genomes: From DNA to Protein Function using Bioinformatics”
+- **Wellcome Connecting Science (through FutureLearn)**: “Bacterial Genomes: From DNA to Protein Function using Bioinformatics”
   
 - **Bangladesh Youth Leadership Center (BYLC)**: “CareerX 18”
