@@ -40,8 +40,7 @@ Afsan Sarwer is a Doctor of Veterinary Medicine (DVM) and an MS fellow in Microb
 
 ## Research Experience
 
-<details>
-  <summary><strong>Ongoing Research Project | Department of Microbiology & Hygiene, BAU</strong></summary>
+ ## Ongoing Research Project | Department of Microbiology & Hygiene, BAU
 
   **Theme**: Whole-Genome-Based Global Phylogeny and Resistome Profiling of ESBL-Producing *Escherichia coli* from Seafish  
   **Advisor**: Professor Dr. Tanvir Rahman | [Google Scholar Profile](https://scholar.google.com/citations?user=tgp5lXUAAAAJ&hl=en)  
@@ -56,10 +55,9 @@ Afsan Sarwer is a Doctor of Veterinary Medicine (DVM) and an MS fellow in Microb
   - **Core Gene Identification**: Identifying and analyzing the core genome shared across strains.
   - **Phylogenetic Analysis**: Exploring the phylogenetic relationship among MTR lab strains of *E. coli* to understand their evolutionary context.
   - **Global Comparison**: Comparing MTR lab strains with global datasets including ST, demographic comparisons, MST, and global phylogeny.
-</details>
 
-<details>
-  <summary><strong>Independent Research Project | Bangladesh Agricultural University</strong></summary>
+
+ ## Independent Research Project | Bangladesh Agricultural University
 
   **Title**: Livestock Endoparasite Detection with Machine Vision and Deep Learning  
   **Advisor**: Professor Dr. A K M Anisur Rahman | [Google Scholar Profile](https://scholar.google.com/citations?user=1s72FjoAAAAJ&hl=en)  
@@ -69,7 +67,6 @@ Afsan Sarwer is a Doctor of Veterinary Medicine (DVM) and an MS fellow in Microb
   - Utilized YOLOv8 deep learning model for microscopic image processing.
   - Collected and annotated images for training the model to detect livestock endoparasites.
   - Evaluated the model using metrics like accuracy, precision, recall, F1-score, and confusion matrix.
-</details>
 
 ---
 
@@ -77,16 +74,19 @@ Afsan Sarwer is a Doctor of Veterinary Medicine (DVM) and an MS fellow in Microb
 
 - **Intern Student**: 21st DVM Internship Program 2024 – Faculty of Veterinary Science, Bangladesh Agricultural University (Sept 2024 - Feb 2025)
 - **Student Member**: Veterinary Information Network (VIN) (June 2020 - March 2025)
+- **Global Outreach - Student Membership**: American Society for MicrobiologyAmerican Society for Microbiology (Jan 2025 - Present)
+- **Joint Organizing Secretary**: Bangladesh Agricultural University Career Club (BAUCC) (Dec 2021 - March 2023)
 - **Founding Member**: Team Utshob – Cultural Innovation and Collaboration (Feb 2020 - Present)
 - **BYLC Graduate**: BYLC Graduate Network (June 2020 - Present)
+- **General Secretary**: Connecting Youth for Change (CYC) (June 2020 - Dec 2022)
 
 ---
 
 ## Technical Skills
 
-- **Programming**: Python, LaTeX, Data Analysis (NumPy, Pandas, Matplotlib, Seaborn), TensorFlow for Neural Networks
-- **Tools**: SPSS, Excel, PowerPoint, Adobe Illustrator, Adobe Photoshop, Adobe Premiere Pro, Google Forms
-- **Research**: Data Visualization, Image Annotation, Microscopic Observations
+- **Programming**: Linux, Python, LaTeX, Data Analysis (NumPy, Pandas, Matplotlib, Seaborn), TensorFlow for Neural Networks
+- **Tools**: Linux shell, SPSS, Excel, PowerPoint, Adobe Illustrator, Adobe Photoshop, Adobe Premiere Pro, Google Forms
+- **Research**: Isolation and culture of microorganisms, PCR, Antibiogram profiling, AST, Gene detection, WGS data handling, Evolutionary relationship determination, Sequence typing,  Microscopic Observations
 
 ---
 
