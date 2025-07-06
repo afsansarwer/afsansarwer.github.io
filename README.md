@@ -112,8 +112,16 @@ Afsan Sarwer is a Doctor of Veterinary Medicine (DVM) and an MS fellow in Microb
 
 **Authors**: Afsan Sarwer, Md Fahim Shahria  
 
-**Presentation Type**: Poster
+**Presentation Type**: Poster  
 
+<p>
+  <a href="https://www.linkedin.com/in/afsansarwer/" target="_blank">
+    <img src="assets/img/conference_result.png" width="40" height="40" style="margin-right: 10px;"/>
+  </a>  
+  <a href="https://www.researchgate.net/profile/Afsan-Sarwer?ev=hdr_xprf" target="_blank">
+    <img src="assets/img/conference_result.png" width="90" height="90"/>
+  </a>
+</p>  
 ---
 
 ## Additional Courses
