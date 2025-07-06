@@ -67,21 +67,27 @@ Afsan Sarwer is a Doctor of Veterinary Medicine (DVM) and an MS fellow in Microb
 
 ## Additional Experience
 
-- **Intern Student**: 21st DVM Internship Program 2024
-                      Faculty of Veterinary Science, Bangladesh Agricultural University
+- **Intern Student**: 21st DVM Internship Program 2024  
+                      Faculty of Veterinary Science, Bangladesh Agricultural University  
                       (Sept 2024 - Feb 2025)
-- **Student Member**: Veterinary Information Network (VIN)
+  
+- **Student Member**: Veterinary Information Network (VIN)  
                       (June 2020 - March 2025)
-- **Global Outreach - Student Membership**: American Society for MicrobiologyAmerican Society for Microbiology
+  
+- **Global Outreach - Student Membership**: American Society for MicrobiologyAmerican Society for Microbiology  
                       (Jan 2025 - Present)
-- **Joint Organizing Secretary**: Bangladesh Agricultural University Career Club (BAUCC)
+  
+- **Joint Organizing Secretary**: Bangladesh Agricultural University Career Club (BAUCC)  
                       (Dec 2021 - March 2023)
-- **Founding Member**: Team Utshob
-                      Cultural Innovation and Collaboration
+  
+- **Founding Member**: Team Utshob  
+                      Cultural Innovation and Collaboration  
                       (Feb 2020 - Present)
-- **BYLC Graduate**: BYLC Graduate Network
+  
+- **BYLC Graduate**: BYLC Graduate Network  
                       (June 2020 - Present)
-- **General Secretary**: Connecting Youth for Change (CYC)
+  
+- **General Secretary**: Connecting Youth for Change (CYC)  
                       (June 2020 - Dec 2022)
 
 ---
