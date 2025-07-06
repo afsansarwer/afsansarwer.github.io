@@ -1,7 +1,5 @@
 /* Google Font CDN Link */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
-
-/* Reset and Global Styles */
 *{
   margin: 0;
   padding: 0;
@@ -9,163 +7,81 @@
   font-family: 'Poppins',sans-serif;
   scroll-behavior: smooth;
 }
+body{
 
-body {
-  background-color: #f4f7fc;
-  color: #333;
-  line-height: 1.6;
 }
-
-/* Navigation Bar */
-nav {
-  position: fixed;
-  top: 0;
-  width: 100%;
-  height: 75px;
-  background: #004D7A; /* Deep Blue */
-  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
-  z-index: 100;
+nav{
+ position: fixed;
+ left: 0;
+ top: 0;
+ width: 100%;
+ height: 75px;
+ background: #2980b9;
+ box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
-
-nav .navbar {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  height: 100%;
-  max-width: 90%;
-  margin: auto;
+nav .navbar{
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ height: 100%;
+ max-width: 90%;
+ background: #2980b9;
+ margin: auto;
 }
-
-nav .navbar .logo a {
+nav .navbar .logo a{
   color: #fff;
   font-size: 27px;
   font-weight: 600;
   text-decoration: none;
 }
-
-nav .navbar .menu {
+nav .navbar .menu{
   display: flex;
 }
-
-.navbar .menu li {
+.navbar .menu li{
   list-style: none;
   margin: 0 15px;
 }
-
-.navbar .menu li a {
+.navbar .menu li a{
   color: #fff;
   font-size: 17px;
   font-weight: 500;
   text-decoration: none;
-  transition: background-color 0.3s ease;
 }
-
-.navbar .menu li a:hover {
-  background-color: #00C8E0; /* Light Blue */
-  padding: 5px 10px;
-  border-radius: 5px;
-}
-
-/* Section Styles */
-section {
+section{
   display: flex;
+  height: 100vh;
+  width: 100%;
   align-items: center;
   justify-content: center;
-  color: #333;
+  color: #96c7e8;
   font-size: 70px;
-  padding: 80px 20px;
-  min-height: 100vh;
 }
-
-#home {
+#Home{
   background: #fff;
 }
-
-#summary {
+#Contact{
   background: #f2f2f2;
 }
-
-#contact {
+#Experience{
   background: #e6e6e6;
 }
-
-#education {
+#Latest{
   background: #fff;
 }
-
-#R_interests {
+#Publications{
   background: #f2f2f2;
 }
-
-#R_experience {
+#Certifications{
   background: #e6e6e6;
 }
-
-#A_experience {
-  background: #fff;
-}
-
-#skills {
-  background: #f2f2f2;
-}
-
-#conference {
-  background: #e6e6e6;
-}
-
-#A_courses {
-  background: #fff;
-}
-
-/* Button to Scroll to Top */
-.button a {
+.button a{
   position: fixed;
   bottom: 20px;
   right: 20px;
   color: #fff;
-  background: #004D7A; /* Deep Blue */
-  padding: 12px 18px;
+  background: #2980b9;
+  padding: 7px 12px;;
   font-size: 18px;
-  border-radius: 50%;
+  border-radius: 6px;
   box-shadow: rgba(0, 0, 0, 0.15);
-  transition: background-color 0.3s ease;
 }
-
-.button a:hover {
-  background: #00C8E0; /* Light Blue */
-}
-
-/* Links Styling */
-a {
-  color: #004D7A;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-/* Image and Logo Styling */
-img {
-  border-radius: 50%;
-  transition: transform 0.3s ease;
-}
-
-img:hover {
-  transform: scale(1.1);
-}
-
-/* Media Queries */
-@media (max-width: 768px) {
-  .navbar .menu li a {
-    font-size: 14px;
-    padding: 10px 15px;
-  }
-
-  section {
-    font-size: 50px;
-    padding: 60px 20px;
-  }
-}
-
-
