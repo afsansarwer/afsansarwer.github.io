@@ -115,7 +115,7 @@ Afsan Sarwer is a Doctor of Veterinary Medicine (DVM) and an MS fellow in Microb
 **Presentation Type**: Poster  
 
 <p>
-  <img src="assets/img/conference_result.png" style="width: 160%; max-width: 200px; height: auto; margin: 0 auto; display: block;"/>
+  <img src="assets/img/conference_result.png" style="width: 200%; max-width: 300px; height: auto; margin: 0 auto; display: block;"/>
 </p>  
 
 ---
