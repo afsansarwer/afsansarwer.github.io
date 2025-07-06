@@ -38,14 +38,12 @@ Afsan Sarwer is a Doctor of Veterinary Medicine (DVM) and an MS fellow in Microb
 
 ---
 
-## Research Experience
+## Research Experience  
 
- ## Ongoing Research Project | Department of Microbiology & Hygiene, BAU
-
+### Ongoing Research Project | Department of Microbiology & Hygiene, BAU  
   **Theme**: Whole-Genome-Based Global Phylogeny and Resistome Profiling of ESBL-Producing *Escherichia coli* from Seafish  
   **Advisor**: Professor Dr. Tanvir Rahman | [Google Scholar Profile](https://scholar.google.com/citations?user=tgp5lXUAAAAJ&hl=en)  
   **Duration**: April 2025 - Present  
-
   **Key Works**:
   - **Strain Characterization**: Utilizing various genomic analyses to determine the characteristics of each *Escherichia coli* strain.
   - **ANI Value Determination**: Assessing Average Nucleotide Identity (ANI) for strain comparison.
@@ -56,13 +54,10 @@ Afsan Sarwer is a Doctor of Veterinary Medicine (DVM) and an MS fellow in Microb
   - **Phylogenetic Analysis**: Exploring the phylogenetic relationship among MTR lab strains of *E. coli* to understand their evolutionary context.
   - **Global Comparison**: Comparing MTR lab strains with global datasets including ST, demographic comparisons, MST, and global phylogeny.
 
-
- ## Independent Research Project | Bangladesh Agricultural University
-
+### Independent Research Project | Bangladesh Agricultural University  
   **Title**: Livestock Endoparasite Detection with Machine Vision and Deep Learning  
   **Advisor**: Professor Dr. A K M Anisur Rahman | [Google Scholar Profile](https://scholar.google.com/citations?user=1s72FjoAAAAJ&hl=en)  
   **Duration**: August 2024 - December 2024  
-
   **Key Works**:
   - Utilized YOLOv8 deep learning model for microscopic image processing.
   - Collected and annotated images for training the model to detect livestock endoparasites.
