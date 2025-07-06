@@ -107,7 +107,7 @@ Afsan Sarwer is a Doctor of Veterinary Medicine (DVM) and an MS fellow in Microb
 
 - **Programming**: Linux, Python, LaTeX, Data Analysis (NumPy, Pandas, Matplotlib, Seaborn), TensorFlow for Neural Networks
   
-- **Tools**: Linux shell, SPSS, Excel, PowerPoint, Adobe Illustrator, Adobe Photoshop, Adobe Premiere Pro, Google Forms
+- **Tools**: Linux shell, Google Colab, Jupyter Notebook, Visual Studio Code, SPSS, Github, Excel, PowerPoint, Adobe Illustrator, Adobe Photoshop, Adobe Premiere Pro, Google Forms
   
 - **Research**: Isolation and culture of microorganisms, PCR, Antibiogram profiling, AST, Gene detection, WGS data handling, Evolutionary relationship determination, Sequence typing,  Microscopic Observations
 
