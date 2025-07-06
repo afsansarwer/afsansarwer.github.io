@@ -114,11 +114,19 @@ Afsan Sarwer is a Doctor of Veterinary Medicine (DVM) and an MS fellow in Microb
 
 **Presentation Type**: Poster  
 
-<p>
-  <a>
-    <img src="assets/img/conference_result.png" width="auto" height="auto" style="margin-right: 10px;"/>
-  </a>  
-</p>
+### Conference Section
+
+![Conference Image](assets/img/conference_result.png)
+
+<style>
+img {
+  max-width: 100%;
+  height: auto;
+  margin: 20px;
+  border: 1px solid #ccc; /* Optional: add a border if you want */
+  padding: 10px; /* Optional: adjust padding around the image */
+}
+</style>  
 
 
 ---
