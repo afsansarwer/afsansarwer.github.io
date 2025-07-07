@@ -29,12 +29,12 @@ Afsan Sarwer is a Doctor of Veterinary Medicine (DVM) and an MS fellow in Microb
 
 ## Research Interests
 
-- **Whole Genome Sequence (WGS)**
-- **Antimicrobial Resistance (AMR)**
-- **Bioinformatics**
-- **Deep Learning for Medical Diagnostics**
-- **Microscopic Image Analysis**
-- **Computer Vision in Life Science**
+- Whole Genome Sequence (WGS)
+- Antimicrobial Resistance (AMR)
+- Bioinformatics
+- Deep Learning for Veterinary Diagnostics
+- Microscopic Image Analysis
+- Computer Vision in Life Science
 
 ---
 
@@ -42,17 +42,7 @@ Afsan Sarwer is a Doctor of Veterinary Medicine (DVM) and an MS fellow in Microb
 
 ### Ongoing Research Project | Department of Microbiology & Hygiene, BAU  
   **Theme**: Whole-Genome-Based Global Phylogeny and Resistome Profiling of ESBL-Producing *Escherichia coli* from Seafish  
-  **Advisor**: Professor Dr. Tanvir Rahman | [Google Scholar Profile](https://scholar.google.com/citations?user=tgp5lXUAAAAJ&hl=en)  
-  **Duration**: April 2025 - Present  
-  **Key Works**:
-  - **Strain Characterization**: Utilizing various genomic analyses to determine the characteristics of each *Escherichia coli* strain.
-  - **ANI Value Determination**: Assessing Average Nucleotide Identity (ANI) for strain comparison.
-  - **Sequence Typing**: Implementing MLST (Multi-Locus Sequence Typing) and cgMLST (Core Genome MLST) for strain identification.
-  - **Gene Distribution**: Analyzing the distribution of antibiotic resistance genes, virulence genes, and other relevant genomic markers.
-  - **Serotyping**: Identifying the serotype of each strain through genomic analysis.
-  - **Core Gene Identification**: Identifying and analyzing the core genome shared across strains.
-  - **Phylogenetic Analysis**: Exploring the phylogenetic relationship among MTR lab strains of *E. coli* to understand their evolutionary context.
-  - **Global Comparison**: Comparing MTR lab strains with global datasets including ST, demographic comparisons, MST, and global phylogeny.
+  **Advisor**: Professor Dr. Tanvir Rahman | [Profile](https://bau.edu.bd/profile/VMH1005)  
 
  <p>
   <img src="assets/img/BRIG.png" style="width: 250%; max-width: 300px; height: auto; margin: 0 auto; display: block;"/>
@@ -63,7 +53,7 @@ Afsan Sarwer is a Doctor of Veterinary Medicine (DVM) and an MS fellow in Microb
 
 ### Independent Research Project | Bangladesh Agricultural University  
   **Title**: Livestock Endoparasite Detection with Machine Vision and Deep Learning  
-  **Advisor**: Professor Dr. A K M Anisur Rahman | [Google Scholar Profile](https://scholar.google.com/citations?user=1s72FjoAAAAJ&hl=en)  
+  **Advisor**: Professor Dr. A K M Anisur Rahman | [Profile](https://bau.edu.bd/profile/VM1004)  
   **Duration**: August 2024 - December 2024  
   **Key Works**:
   - Utilized YOLOv8 deep learning model for microscopic image processing.
