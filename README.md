@@ -41,7 +41,7 @@ Afsan Sarwer is a Doctor of Veterinary Medicine (DVM) and an MS fellow in Microb
 ## Research Experience  
 
 ### Ongoing Research Project | Department of Microbiology & Hygiene, BAU  
-  **Theme**: Whole-Genome-Based Global Phylogeny and Resistome Profiling of ESBL-Producing *Escherichia coli* from Seafish  
+  **Theme**: Whole-Genome-Based Global Phylogeny and Resistome Profiling (_proposed_)
   **Advisor**: Professor Dr. Tanvir Rahman | [Profile](https://bau.edu.bd/profile/VMH1005)  
 
  <p>
