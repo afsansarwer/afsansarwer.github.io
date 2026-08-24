@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://afsansarwer.github.io/afsansarwer/sitemap.xml
+Sitemap: https://afsansarwer.github.io/sitemap.xml
