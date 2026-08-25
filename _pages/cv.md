@@ -8,7 +8,7 @@ nav_order: 4
 
 # Afsan Sarwer
 
-**DVM, MSc | Researcher | Microbial Genomics | Antimicrobial Resistance | Computational Biology**
+**DVM, MSc Researcher | Microbial Genomics | Antimicrobial Resistance | Computational Biology**
 
 Department of Microbiology and Hygiene  
 Bangladesh Agricultural University  
@@ -26,12 +26,12 @@ Mymensingh, Bangladesh
 
 *Expected completion: October 2026*
 
----
-
 ### Doctor of Veterinary Medicine (DVM)
-Graduated in February, 2025
+
 **Bangladesh Agricultural University**  
 Mymensingh, Bangladesh
+
+**CGPA:** 3.314 / 4.00
 
 ---
 
@@ -49,7 +49,7 @@ Mymensingh, Bangladesh
 ### Machine Vision and Deep Learning for Veterinary Parasitology
 
 **Bangladesh Agricultural University**
-_Independent study_
+
 - Developed a YOLOv8-based approach for detecting parasite eggs and cysts in livestock fecal microscopy images.
 - Worked with image datasets, model training, and performance evaluation using Python.
 
@@ -78,16 +78,12 @@ Bangladesh Agricultural University, Mymensingh, Bangladesh · August 2026
 
 **Authors:** **Afsan Sarwer**, Naeem Ahammed Ibrahim Fahim, Md. Liton Rana, Amrita Pondit, Saifur Rahman, Ricardo Oliva, and Md. Tanvir Rahman.
 
----
-
 ### Whole-Genome-Based Global Phylogeny, Population Structure, and Resistome Profiling of ESBL-producing *Escherichia coli* from Seafood in Bangladesh
 
 **Poster presentation — Gazipur Agricultural University International Conference**  
 Gazipur, Bangladesh · February 2026
 
 **Authors:** Naeem Ahammed Ibrahim Fahim, **Afsan Sarwer**, Zannatul Firdous, Md. Saiful Islam, Saifur Rahman, Jayedul Hassan, Timothy R. Walsh, Refath Farzana, and Md. Tanvir Rahman.
-
----
 
 ### Whole-Genome-Based Global Phylogeny, Population Structure, and Resistome Profiling of ESBL-producing *Escherichia coli* from Seafood in Bangladesh
 
@@ -96,14 +92,12 @@ Shahjalal University of Science and Technology, Sylhet, Bangladesh · October 20
 
 **Authors:** Naeem Ahammed Ibrahim Fahim, **Afsan Sarwer**, Zannatul Firdous, Md. Saiful Islam, Saifur Rahman, Jayedul Hassan, Timothy R. Walsh, Refath Farzana, and Md. Tanvir Rahman.
 
----
-
 ### Livestock Endoparasite Detection with Machine Vision and Deep Learning
 
 **Poster presentation — National Science and Technology Complex**  
 Agargaon, Dhaka, Bangladesh · November 2024
 
-**Authors:** **Afsan Sarwer**, and Md. Fahim Shahria.
+**Authors:** **Afsan Sarwer** and Md. Fahim Shahria.
 
 ---
 
@@ -130,7 +124,7 @@ Agargaon, Dhaka, Bangladesh · November 2024
 
 ### Machine Learning
 
-- Basic Machine learning and deep learning
+- Machine learning and deep learning
 - Computer vision
 - Object detection
 - Model training and evaluation
