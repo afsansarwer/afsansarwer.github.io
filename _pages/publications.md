@@ -8,68 +8,100 @@ nav_order: 2
 
 ## Peer-reviewed publication
 
-### Genome-wide analysis of extended-spectrum beta-lactamase-producing *Escherichia coli* from seafood in Bangladesh: population structure, resistome, virulome, and global dissemination patterns
+<div class="row mb-5">
+  <div class="col-md-2 text-center mb-3 mb-md-0">
+    <img
+      src="/assets/img/frontiers_microbiology_logo.png"
+      alt="Frontiers in Microbiology"
+      class="img-fluid"
+      style="max-height: 110px;"
+    >
+  </div>
 
-**Naeem Ahammed Ibrahim Fahim, Afsan Sarwer, Zannatul Firdous, et al.**
+  <div class="col-md-10">
+    <h4>
+      Genome-wide analysis of extended-spectrum beta-lactamase-producing
+      <i>Escherichia coli</i> from seafood in Bangladesh: population structure,
+      resistome, virulome, and global dissemination patterns
+    </h4>
 
-*Frontiers in Microbiology*, 2026.
+    <p class="mb-1">
+      Naeem Ahammed Ibrahim Fahim, <strong>Afsan Sarwer</strong>, Zannatul
+      Firdous, et al.
+    </p>
 
-This study investigated the population structure, antimicrobial resistance determinants, virulence factors, and global genomic relationships of extended-spectrum beta-lactamase-producing *Escherichia coli* isolated from seafood in Bangladesh using whole-genome sequencing and comparative genomic analysis.
+    <p>
+      <em>Frontiers in Microbiology</em>, 2026
+    </p>
 
-[**View publication**](https://doi.org/10.3389/fmicb.2026.1737712)
+    <p>
+      Whole-genome analysis of ESBL-producing <i>E. coli</i> from seafood in
+      Bangladesh, integrating population structure, antimicrobial resistance,
+      virulence, and global genomic comparisons.
+    </p>
+
+    <p>
+      <a
+        href="https://doi.org/10.3389/fmicb.2026.1737712"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <i class="fas fa-external-link-alt"></i> View publication
+      </a>
+    </p>
+  </div>
+</div>
 
 ---
 
 ## Conference presentations
 
-### Genomic Epidemiology and Plasmid-Associated Antimicrobial Resistance of Vegetable-Derived *Escherichia coli*: A Nationwide Comparative Analysis
+### Vegetable-derived *Escherichia coli* and plasmid-associated AMR
 
-**Poster presentation — BSVER ASCon XXXIV**  
-Bangladesh Agricultural University, Mymensingh, Bangladesh · August 2026
+**Genomic Epidemiology and Plasmid-Associated Antimicrobial Resistance of Vegetable-Derived *Escherichia coli*: A Nationwide Comparative Analysis**
+
+Poster presentation · **BSVER ASCon XXXIV**  
+Bangladesh Agricultural University, Mymensingh · August 2026
 
 **Authors:** Afsan Sarwer, Naeem Ahammed Ibrahim Fahim, Md. Liton Rana, Amrita Pondit, Saifur Rahman, Ricardo Oliva, and Md. Tanvir Rahman.
 
-This study investigated the genomic epidemiology and plasmid-associated antimicrobial resistance of five vegetable-derived *E. coli* isolates from Dhaka, Bangladesh, through comparative whole-genome analysis against publicly available *E. coli* genomes from Bangladesh.
-
-The analysis integrated pangenomics, average nucleotide identity (ANI), multilocus sequence typing, serotyping, antimicrobial resistance genes, virulence-associated genes, plasmid replicons, mobile genetic elements, and plasmid similarity networks. The findings demonstrated that vegetable-derived *E. coli* are embedded within a broader One Health plasmid-associated AMR network in Bangladesh.
+Comparative whole-genome analysis of vegetable-derived *E. coli* from Dhaka, integrating pangenomics, genomic epidemiology, antimicrobial resistance, virulence, plasmids, and mobile genetic elements.
 
 ---
 
-### Whole-Genome-Based Global Phylogeny, Population Structure, and Resistome Profiling of ESBL-producing *Escherichia coli* from Seafood in Bangladesh
+### Seafood-derived ESBL-producing *Escherichia coli*
 
-**Poster presentation — Gazipur Agricultural University International Conference**  
+**Whole-Genome-Based Global Phylogeny, Population Structure, and Resistome Profiling of ESBL-producing *Escherichia coli* from Seafood in Bangladesh**
+
+Poster presentation · **Gazipur Agricultural University International Conference**  
 Gazipur, Bangladesh · February 2026
 
 **Authors:** Naeem Ahammed Ibrahim Fahim, Afsan Sarwer, Zannatul Firdous, Md. Saiful Islam, Saifur Rahman, Jayedul Hassan, Timothy R. Walsh, Refath Farzana, and Md. Tanvir Rahman.
 
-This study used whole-genome sequencing data from ten seafood-derived *E. coli* isolates from Bangladesh and compared them with a global dataset of beta-lactamase-producing *E. coli*. The analysis investigated multilocus sequence types, cgSTs, serotypes, antimicrobial resistance genes, virulence genes, plasmids, mobile genetic elements, pangenome structure, and global population relationships.
-
-The findings highlighted clinically important antimicrobial resistance determinants and plasmid-associated resistance among seafood-derived *E. coli*, emphasizing the importance of genomic surveillance across food-chain and One Health interfaces.
+Whole-genome characterization of seafood-derived *E. coli* from Bangladesh, examining population structure, antimicrobial resistance, virulence determinants, plasmids, mobile genetic elements, and global genomic relationships.
 
 ---
 
-### Whole-Genome-Based Global Phylogeny, Population Structure, and Resistome Profiling of ESBL-producing *Escherichia coli* from Seafood in Bangladesh
+### Seafood-derived ESBL-producing *Escherichia coli*
 
-**Poster presentation — International Conference on Life Science**  
-Shahjalal University of Science and Technology, Sylhet, Bangladesh · October 2025
+**Whole-Genome-Based Global Phylogeny, Population Structure, and Resistome Profiling of ESBL-producing *Escherichia coli* from Seafood in Bangladesh**
+
+Poster presentation · **International Conference on Life Science**  
+Shahjalal University of Science and Technology, Sylhet · October 2025
 
 **Authors:** Naeem Ahammed Ibrahim Fahim, Afsan Sarwer, Zannatul Firdous, Md. Saiful Islam, Saifur Rahman, Jayedul Hassan, Timothy R. Walsh, Refath Farzana, and Md. Tanvir Rahman.
 
-This presentation reported whole-genome-based characterization of seafood-derived *E. coli* from Bangladesh, focusing on population structure, antimicrobial resistance, virulence determinants, plasmids, mobile genetic elements, and global genomic relationships.
-
-The study demonstrated the utility of comparative genomics and genomic epidemiology for investigating the potential dissemination of antimicrobial resistance through seafood and its broader One Health implications.
+Whole-genome-based investigation of seafood-derived *E. coli*, focusing on antimicrobial resistance, virulence, plasmids, mobile genetic elements, population structure, and global genomic relationships.
 
 ---
 
-### Livestock Endoparasite Detection with Machine Vision and Deep Learning
+### Machine vision for livestock parasite detection
 
-**Poster presentation — National Science and Technology Complex**  
-Agargaon, Dhaka, Bangladesh · November 2024
+**Livestock Endoparasite Detection with Machine Vision and Deep Learning**
+
+Poster presentation · **National Science and Technology Complex**  
+Agargaon, Dhaka · November 2024
 
 **Authors:** Afsan Sarwer and Md. Fahim Shahria.
 
-This study investigated the application of the YOLOv8 deep learning architecture for automated detection of parasitic eggs and cysts in microscopic images of livestock fecal samples.
-
-A computer vision model was trained using clinical microscopic images and evaluated using precision, recall, F1-score, mAP50, and mAP50-95. The model achieved an average precision of 56%, recall of 24%, F1-score of 33.6%, mAP50 of 33%, and mAP50-95 of 22%.
-
-The study demonstrated the potential of deep learning for automated veterinary parasitological diagnostics while highlighting the importance of larger and more diverse datasets and improved representation of underrepresented parasite classes.
+Application of YOLOv8 deep learning for automated detection of parasitic eggs and cysts in microscopic images of livestock fecal samples. The study evaluated model performance using precision, recall, F1-score, mAP50, and mAP50-95.
