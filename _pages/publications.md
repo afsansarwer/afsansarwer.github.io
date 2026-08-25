@@ -8,13 +8,13 @@ nav_order: 2
 
 ## Peer-reviewed publication
 
-<div class="row mb-5">
-  <div class="col-md-2 text-center mb-3 mb-md-0">
+<div class="row mb-5 pb-4">
+  <div class="col-md-2 text-center mb-4 mb-md-0">
     <img
       src="/assets/img/frontiers_microbiology_logo.png"
       alt="Frontiers in Microbiology"
       class="img-fluid"
-      style="max-height: 110px;"
+      style="max-height: 120px;"
     >
   </div>
 
@@ -25,7 +25,7 @@ nav_order: 2
       resistome, virulome, and global dissemination patterns
     </h4>
 
-    <p class="mb-1">
+    <p class="mb-2">
       Naeem Ahammed Ibrahim Fahim, <strong>Afsan Sarwer</strong>, Zannatul
       Firdous, et al.
     </p>
@@ -56,52 +56,145 @@ nav_order: 2
 
 ## Conference presentations
 
-### Vegetable-derived *Escherichia coli* and plasmid-associated AMR
+<div class="row mb-5 pb-4">
+  <div class="col-md-2 text-center mb-4 mb-md-0">
+    <img
+      src="/assets/img/bsver_logo.png"
+      alt="BSVER ASCon XXXIV"
+      class="img-fluid"
+      style="max-height: 120px;"
+    >
+  </div>
 
-**Genomic Epidemiology and Plasmid-Associated Antimicrobial Resistance of Vegetable-Derived *Escherichia coli*: A Nationwide Comparative Analysis**
+  <div class="col-md-10">
+    <h4>
+      Genomic Epidemiology and Plasmid-Associated Antimicrobial Resistance of
+      Vegetable-Derived <i>Escherichia coli</i>: A Nationwide Comparative
+      Analysis
+    </h4>
 
-Poster presentation · **BSVER ASCon XXXIV**  
-Bangladesh Agricultural University, Mymensingh · August 2026
+    <p>
+      <strong>Poster presentation · BSVER ASCon XXXIV</strong><br>
+      Bangladesh Agricultural University, Mymensingh · August 2026
+    </p>
 
-**Authors:** Afsan Sarwer, Naeem Ahammed Ibrahim Fahim, Md. Liton Rana, Amrita Pondit, Saifur Rahman, Ricardo Oliva, and Md. Tanvir Rahman.
+    <p>
+      <strong>Authors:</strong> Afsan Sarwer, Naeem Ahammed Ibrahim Fahim, Md.
+      Liton Rana, Amrita Pondit, Saifur Rahman, Ricardo Oliva, and Md. Tanvir
+      Rahman.
+    </p>
 
-Comparative whole-genome analysis of vegetable-derived *E. coli* from Dhaka, integrating pangenomics, genomic epidemiology, antimicrobial resistance, virulence, plasmids, and mobile genetic elements.
+    <p>
+      Comparative whole-genome analysis of vegetable-derived <i>E. coli</i>
+      from Dhaka, integrating pangenomics, genomic epidemiology, antimicrobial
+      resistance, virulence, plasmids, and mobile genetic elements.
+    </p>
+  </div>
+</div>
 
----
+<div class="row mb-5 pb-4">
+  <div class="col-md-2 text-center mb-4 mb-md-0">
+    <img
+      src="/assets/img/GAUIC_logo.jpg"
+      alt="Gazipur Agricultural University International Conference"
+      class="img-fluid"
+      style="max-height: 120px;"
+    >
+  </div>
 
-### Seafood-derived ESBL-producing *Escherichia coli*
+  <div class="col-md-10">
+    <h4>
+      Whole-Genome-Based Global Phylogeny, Population Structure, and Resistome
+      Profiling of ESBL-producing <i>Escherichia coli</i> from Seafood in
+      Bangladesh
+    </h4>
 
-**Whole-Genome-Based Global Phylogeny, Population Structure, and Resistome Profiling of ESBL-producing *Escherichia coli* from Seafood in Bangladesh**
+    <p>
+      <strong>Poster presentation · Gazipur Agricultural University
+      International Conference</strong><br>
+      Gazipur, Bangladesh · February 2026
+    </p>
 
-Poster presentation · **Gazipur Agricultural University International Conference**  
-Gazipur, Bangladesh · February 2026
+    <p>
+      <strong>Authors:</strong> Naeem Ahammed Ibrahim Fahim, Afsan Sarwer,
+      Zannatul Firdous, Md. Saiful Islam, Saifur Rahman, Jayedul Hassan,
+      Timothy R. Walsh, Refath Farzana, and Md. Tanvir Rahman.
+    </p>
 
-**Authors:** Naeem Ahammed Ibrahim Fahim, Afsan Sarwer, Zannatul Firdous, Md. Saiful Islam, Saifur Rahman, Jayedul Hassan, Timothy R. Walsh, Refath Farzana, and Md. Tanvir Rahman.
+    <p>
+      Whole-genome characterization of seafood-derived <i>E. coli</i> from
+      Bangladesh, examining population structure, antimicrobial resistance,
+      virulence determinants, plasmids, mobile genetic elements, pangenome
+      structure, and global genomic relationships.
+    </p>
+  </div>
+</div>
 
-Whole-genome characterization of seafood-derived *E. coli* from Bangladesh, examining population structure, antimicrobial resistance, virulence determinants, plasmids, mobile genetic elements, and global genomic relationships.
+<div class="row mb-5 pb-4">
+  <div class="col-md-2 text-center mb-4 mb-md-0">
+    <img
+      src="/assets/img/ICLS_logo.png"
+      alt="International Conference on Life Science"
+      class="img-fluid"
+      style="max-height: 120px;"
+    >
+  </div>
 
----
+  <div class="col-md-10">
+    <h4>
+      Whole-Genome-Based Global Phylogeny, Population Structure, and Resistome
+      Profiling of ESBL-producing <i>Escherichia coli</i> from Seafood in
+      Bangladesh
+    </h4>
 
-### Seafood-derived ESBL-producing *Escherichia coli*
+    <p>
+      <strong>Poster presentation · International Conference on Life
+      Science</strong><br>
+      Shahjalal University of Science and Technology, Sylhet · October 2025
+    </p>
 
-**Whole-Genome-Based Global Phylogeny, Population Structure, and Resistome Profiling of ESBL-producing *Escherichia coli* from Seafood in Bangladesh**
+    <p>
+      <strong>Authors:</strong> Naeem Ahammed Ibrahim Fahim, Afsan Sarwer,
+      Zannatul Firdous, Md. Saiful Islam, Saifur Rahman, Jayedul Hassan,
+      Timothy R. Walsh, Refath Farzana, and Md. Tanvir Rahman.
+    </p>
 
-Poster presentation · **International Conference on Life Science**  
-Shahjalal University of Science and Technology, Sylhet · October 2025
+    <p>
+      Whole-genome-based investigation of seafood-derived <i>E. coli</i>,
+      focusing on antimicrobial resistance, virulence, plasmids, mobile
+      genetic elements, population structure, and global genomic relationships.
+    </p>
+  </div>
+</div>
 
-**Authors:** Naeem Ahammed Ibrahim Fahim, Afsan Sarwer, Zannatul Firdous, Md. Saiful Islam, Saifur Rahman, Jayedul Hassan, Timothy R. Walsh, Refath Farzana, and Md. Tanvir Rahman.
+<div class="row mb-5 pb-4">
+  <div class="col-md-2 text-center mb-4 mb-md-0">
+    <img
+      src="/assets/img/SCAC_logo.png"
+      alt="National Science and Technology Complex"
+      class="img-fluid"
+      style="max-height: 120px;"
+    >
+  </div>
 
-Whole-genome-based investigation of seafood-derived *E. coli*, focusing on antimicrobial resistance, virulence, plasmids, mobile genetic elements, population structure, and global genomic relationships.
+  <div class="col-md-10">
+    <h4>Livestock Endoparasite Detection with Machine Vision and Deep Learning</h4>
 
----
+    <p>
+      <strong>Poster presentation · National Science and Technology
+      Complex</strong><br>
+      Agargaon, Dhaka · November 2024
+    </p>
 
-### Machine vision for livestock parasite detection
+    <p>
+      <strong>Authors:</strong> Afsan Sarwer and Md. Fahim Shahria.
+    </p>
 
-**Livestock Endoparasite Detection with Machine Vision and Deep Learning**
-
-Poster presentation · **National Science and Technology Complex**  
-Agargaon, Dhaka · November 2024
-
-**Authors:** Afsan Sarwer and Md. Fahim Shahria.
-
-Application of YOLOv8 deep learning for automated detection of parasitic eggs and cysts in microscopic images of livestock fecal samples. The study evaluated model performance using precision, recall, F1-score, mAP50, and mAP50-95.
+    <p>
+      Application of YOLOv8 deep learning for automated detection of parasitic
+      eggs and cysts in microscopic images of livestock fecal samples. The
+      study evaluated model performance using precision, recall, F1-score,
+      mAP50, and mAP50-95.
+    </p>
+  </div>
+</div>
