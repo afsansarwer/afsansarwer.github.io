@@ -1,139 +1,158 @@
 ---
-
 layout: cv
 title: CV
 permalink: /cv/
 nav: true
 nav_order: 4
-------------
+---
 
-## Contact Information
+# Afsan Sarwer
 
-**Name** | Afsan Sarwer
-**Professional Title** | DVM, MS Student in Microbiology
-**Institution** | Bangladesh Agricultural University
-**Email** | [afsan.1901154@bau.edu.bd](mailto:afsan.1901154@bau.edu.bd)
-**LinkedIn** | [LinkedIn](https://www.linkedin.com/)
-**ResearchGate** | [ResearchGate](https://www.researchgate.net/)
-**Location** | Mymensingh, Bangladesh
+**DVM, MSc | Researcher | Microbial Genomics | Antimicrobial Resistance | Computational Biology**
 
-## Professional Summary
+Department of Microbiology and Hygiene  
+Bangladesh Agricultural University  
+Mymensingh, Bangladesh
 
-DVM graduate and current MS student in Microbiology with research experience spanning wet-lab microbiology, molecular detection, whole-genome sequencing analysis, and Linux-based bioinformatics workflows. My current work focuses on bacterial genomic characterization, including genome annotation, antimicrobial resistance profiling, virulence gene detection, plasmid analysis, pangenome analysis, SNP-based phylogeny, and biological interpretation of genomic data.
-
-## Research Interests
-
-* Microbial genomics
-* Evolutionary genomics
-* Comparative genomics
-* Whole-genome sequencing
-* Antimicrobial resistance
-* Bioinformatics workflows
-* Statistical genomics
-* Computational biology
-
-## Experience
-
-### April 2025 – Present
-
-**Research Assistant**
-**MTR Lab, Bangladesh Agricultural University**
-
-**Whole-genome sequencing and comparative genomics**
-
-* Analyze bacterial whole-genome sequencing data for genome annotation, antimicrobial resistance genes, virulence factors, plasmids, MLST, pangenome analysis, SNP-based phylogeny, and comparative genomics.
-* Develop and troubleshoot Linux-based bioinformatics workflows for genome analysis and reproducible data management.
-* Interpret genomic results in the context of antimicrobial resistance, bacterial evolution, and public health.
-* Contribute to data validation, figure preparation, and manuscript development.
-
-**Microbiology and molecular laboratory work**
-
-* Perform sample collection, processing, bacterial isolation, culture maintenance, and phenotypic characterization.
-* Conduct PCR-based molecular detection and assist in interpretation of molecular findings.
-* Maintain laboratory records and integrate wet-lab results with genomic analyses.
-
-**Supervisor:** Dr. Md. Tanvir Rahman
-
-### August 2024 – December 2024
-
-**Independent Research Project — Livestock Endoparasite Detection with Machine Vision and Deep Learning**
-
-**Advisor:** Dr. A K M Anisur Rahman, Bangladesh Agricultural University
-
-* Developed a prototype YOLOv8-based workflow for detecting parasitic eggs and cysts from microscopic images of livestock fecal samples.
-* Worked with image annotation, model training, Google Colab-based computation, and evaluation using precision, recall, F1-score, mAP50, and mAP50–95.
-* Presented the work as a poster at the 23rd Science Council of Asia Conference.
-* Gained practical experience in machine learning, biological image analysis, and livestock-related computational research.
+---
 
 ## Education
 
-### April 2025 – October 2026 (Expected)
+### MSc in Microbiology
 
-**MS in Microbiology**
-Department of Microbiology and Hygiene, Faculty of Veterinary Science
-Bangladesh Agricultural University, Mymensingh, Bangladesh
+**Department of Microbiology and Hygiene, Bangladesh Agricultural University**  
+MTR Lab ([Professor Dr. Md. Tanvir Rahman](https://vmh.bau.edu.bd/teachers/VMH1005))  
+Mymensingh, Bangladesh
 
-**Status:** Thesis semester remaining; expected completion October 2026.
+*Expected completion: October 2026*
 
-### 2019 – 2025
+---
 
-**Doctor of Veterinary Medicine (DVM)**
-Faculty of Veterinary Science
-Bangladesh Agricultural University, Mymensingh, Bangladesh
+### Doctor of Veterinary Medicine (DVM)
+Graduated in February, 2025
+**Bangladesh Agricultural University**  
+Mymensingh, Bangladesh
 
-Relevant background:
+---
 
-* Microbiology
-* Molecular biology
-* Pathology
-* Parasitology
-* Biostatistics
-* Epidemiology
-* Infectious diseases
-* Public health
-* Laboratory diagnostics
+## Research Experience
 
+### Comparative Genomics and Genomic Epidemiology of *Escherichia coli*
+
+**Bangladesh Agricultural University**
+
+- Whole-genome and comparative genomic analysis of *E. coli* from food and environmental sources.
+- Analysis of antimicrobial resistance, virulence, plasmids, mobile genetic elements, MLST, serotypes, and genomic relationships.
+- Pangenome, phylogenetic, and plasmid-based analyses of bacterial genomes.
+- Analysis of publicly available genomes alongside locally generated isolates.
+
+### Machine Vision and Deep Learning for Veterinary Parasitology
+
+**Bangladesh Agricultural University**
+_Independent study_
+- Developed a YOLOv8-based approach for detecting parasite eggs and cysts in livestock fecal microscopy images.
+- Worked with image datasets, model training, and performance evaluation using Python.
+
+---
+
+## Publications
+
+### Peer-reviewed Publication
+
+**Genome-wide analysis of extended-spectrum beta-lactamase-producing *Escherichia coli* from seafood in Bangladesh: population structure, resistome, virulome, and global dissemination patterns**
+
+Naeem Ahammed Ibrahim Fahim, **Afsan Sarwer**, Zannatul Firdous, et al.
+
+*Frontiers in Microbiology*, 2026.
+
+[View publication](https://doi.org/10.3389/fmicb.2026.1737712)
+
+---
+
+## Conference Presentations
+
+### Genomic Epidemiology and Plasmid-Associated Antimicrobial Resistance of Vegetable-Derived *Escherichia coli*: A Nationwide Comparative Analysis
+
+**Poster presentation — BSVER ASCon XXXIV**  
+Bangladesh Agricultural University, Mymensingh, Bangladesh · August 2026
+
+**Authors:** **Afsan Sarwer**, Naeem Ahammed Ibrahim Fahim, Md. Liton Rana, Amrita Pondit, Saifur Rahman, Ricardo Oliva, and Md. Tanvir Rahman.
+
+---
+
+### Whole-Genome-Based Global Phylogeny, Population Structure, and Resistome Profiling of ESBL-producing *Escherichia coli* from Seafood in Bangladesh
+
+**Poster presentation — Gazipur Agricultural University International Conference**  
+Gazipur, Bangladesh · February 2026
+
+**Authors:** Naeem Ahammed Ibrahim Fahim, **Afsan Sarwer**, Zannatul Firdous, Md. Saiful Islam, Saifur Rahman, Jayedul Hassan, Timothy R. Walsh, Refath Farzana, and Md. Tanvir Rahman.
+
+---
+
+### Whole-Genome-Based Global Phylogeny, Population Structure, and Resistome Profiling of ESBL-producing *Escherichia coli* from Seafood in Bangladesh
+
+**Poster presentation — International Conference on Life Science**  
+Shahjalal University of Science and Technology, Sylhet, Bangladesh · October 2025
+
+**Authors:** Naeem Ahammed Ibrahim Fahim, **Afsan Sarwer**, Zannatul Firdous, Md. Saiful Islam, Saifur Rahman, Jayedul Hassan, Timothy R. Walsh, Refath Farzana, and Md. Tanvir Rahman.
+
+---
+
+### Livestock Endoparasite Detection with Machine Vision and Deep Learning
+
+**Poster presentation — National Science and Technology Complex**  
+Agargaon, Dhaka, Bangladesh · November 2024
+
+**Authors:** **Afsan Sarwer**, and Md. Fahim Shahria.
+
+---
 
 ## Technical Skills
 
-### Programming and Data Analysis
+### Computational Biology & Bioinformatics
 
-* **Python:** Basic data handling, tabular output processing, exploratory analysis, visualization, and machine-learning workflow support.
-* **R:** Basic data handling, statistical exploration, and visualization.
-* **Bash/Linux:** File handling, command-line workflows, tool execution, troubleshooting, and environment management.
-* **Statistics:** Basic biostatistics, model evaluation metrics, interpretation of performance measures, and exploratory data summaries.
+- Whole-genome sequencing and genome analysis
+- Comparative genomics and pangenomics
+- Phylogenetics and genomic epidemiology
+- Antimicrobial resistance and virulence profiling
+- Plasmid and mobile genetic element analysis
+- Bacterial population structure analysis
+- Genome annotation and sequence analysis
+- Statistical analysis and data visualization
 
-### Bioinformatics
+### Programming & Computing
 
-* Whole-genome sequencing analysis
-* Genome annotation
-* Antimicrobial resistance gene profiling
-* Virulence gene detection
-* Plasmid analysis
-* MLST
-* Pangenome analysis
-* SNP-based phylogeny
-* Comparative genomics
-* Bacterial genomic characterization
+- Python
+- R
+- Bash / Linux
+- Bioinformatics workflow development
+- Data analysis and visualization
 
 ### Machine Learning
 
-* YOLOv8
-* Image annotation
-* Model training
-* Precision, recall, F1-score
-* mAP50
-* mAP50–95
-* Biological image analysis
+- Basic Machine learning and deep learning
+- Computer vision
+- Object detection
+- Model training and evaluation
 
+---
 
-## Research Strengths
+## Research Projects
 
-* Wet-lab microbiology and microbial genomics
-* Whole-genome sequencing and comparative genomic analysis
-* Linux-based bioinformatics and reproducible workflows
-* Antimicrobial resistance and bacterial evolution
-* Independent learning and technical troubleshooting
-* Analytical problem solving
-* Integration of laboratory and computational approaches
+### Genomic Epidemiology and Plasmid-Associated AMR of Vegetable-Derived *E. coli*
 
+Comparative genomic analysis of vegetable-derived *E. coli* isolates from Bangladesh, with a focus on antimicrobial resistance, plasmids, pangenome structure, and genomic epidemiology.
+
+### Global Genomic Analysis of ESBL-producing *E. coli* from Seafood
+
+Whole-genome analysis of seafood-derived *E. coli* from Bangladesh, including population structure, antimicrobial resistance, virulence, plasmids, and global genomic relationships.
+
+### Livestock Endoparasite Detection with Machine Vision and Deep Learning
+
+Application of YOLOv8 for automated detection of parasitic eggs and cysts in microscopic images of livestock fecal samples.
+
+---
+
+## References
+
+Available upon request.
