@@ -1,105 +1,119 @@
-```yaml
-- title: "Education"
-  type: "time_table"
-  contents:
-    - title: "MSc in Microbiology"
-      institution: "Bangladesh Agricultural University"
-      year: "2024 - 2026"
-      description:
-        - "Department of Microbiology and Hygiene"
-        - 'MTR Lab, supervised by <a href="https://vmh.bau.edu.bd/teachers/VMH1005">Professor Dr. Md. Tanvir Rahman</a>'
-        - "Expected completion: October 2026"
+cv:
+  name: "Afsan Sarwer"
+  headline: "DVM, MSc Researcher | Microbial Genomics | Antimicrobial Resistance | Computational Biology"
+  location: "Mymensingh, Bangladesh"
 
-    - title: "Doctor of Veterinary Medicine (DVM)"
-      institution: "Bangladesh Agricultural University"
-      year: "2018 - 2024"
-      description:
-        - "Faculty of Veterinary Science"
+  sections:
+    Education:
+      - institution: "Bangladesh Agricultural University"
+        area: "Microbiology"
+        degree: "MSc in Microbiology"
+        start_date: "2024-01"
+        end_date: "2026-10"
+        location: "Mymensingh, Bangladesh"
+        highlights:
+          - "Department of Microbiology and Hygiene"
+          - "MTR Lab, supervised by Professor Dr. Md. Tanvir Rahman"
+          - "Expected completion: October 2026"
 
-- title: "Research Experience"
-  type: "time_table"
-  contents:
-    - title: "Comparative Genomics and Genomic Epidemiology of <i>Escherichia coli</i>"
-      institution: "Bangladesh Agricultural University"
-      year: "2024 - Present"
-      description:
-        - "Comparative whole-genome analysis of <i>E. coli</i> isolates from vegetables and seafood."
-        - "Analysis of antimicrobial resistance genes, virulence genes, plasmids, mobile genetic elements, MLST, serotypes, and genomic relationships."
-        - "Pangenome, phylogenomic, and genomic epidemiology analyses using bacterial whole-genome sequencing data."
-        - "Plasmid profiling and similarity analysis to investigate antimicrobial resistance dissemination."
+      - institution: "Bangladesh Agricultural University"
+        area: "Veterinary Science"
+        degree: "Doctor of Veterinary Medicine (DVM)"
+        start_date: "2018-01"
+        end_date: "2024-01"
+        location: "Mymensingh, Bangladesh"
+        highlights:
+          - "CGPA: 3.314/4.00"
 
-    - title: "Machine Vision and Deep Learning for Veterinary Parasitology"
-      institution: "Bangladesh Agricultural University"
-      year: "2023 - 2024"
-      description:
-        - "Developed a computer vision approach for detection of livestock parasite eggs and cysts in microscopic images."
-        - "Implemented YOLOv8 using Python and evaluated model performance using standard classification and object-detection metrics."
+    Research Experience:
+      - company: "Bangladesh Agricultural University"
+        position: "Comparative Genomics and Genomic Epidemiology of Escherichia coli"
+        start_date: "2024-01"
+        end_date: "present"
+        location: "Mymensingh, Bangladesh"
+        highlights:
+          - "Comparative whole-genome analysis of Escherichia coli isolates from vegetables and seafood."
+          - "Analysis of antimicrobial resistance genes, virulence genes, plasmids, mobile genetic elements, MLST, serotypes, and genomic relationships."
+          - "Pangenome, phylogenomic, and genomic epidemiology analyses using bacterial whole-genome sequencing data."
+          - "Plasmid profiling and similarity analysis to investigate antimicrobial resistance dissemination."
 
-- title: "Publications"
-  type: "list"
-  contents:
-    - '<b>Afsan Sarwer</b>, Naeem Ahammed Ibrahim Fahim, Zannatul Firdous, et al. <i>Genome-wide analysis of extended-spectrum beta-lactamase-producing Escherichia coli from seafood in Bangladesh: population structure, resistome, virulome, and global dissemination patterns.</i> <i>Frontiers in Microbiology</i>, 2026. <a href="https://doi.org/10.3389/fmicb.2026.1737712">DOI</a>.'
+      - company: "Bangladesh Agricultural University"
+        position: "Machine Vision and Deep Learning for Veterinary Parasitology"
+        start_date: "2023-01"
+        end_date: "2024-01"
+        location: "Mymensingh, Bangladesh"
+        highlights:
+          - "Developed a computer vision approach for detection of livestock parasite eggs and cysts in microscopic images."
+          - "Implemented YOLOv8 using Python and evaluated model performance using standard classification and object-detection metrics."
 
-- title: "Conference Presentations"
-  type: "time_table"
-  contents:
-    - title: "Genomic Epidemiology and Plasmid-Associated Antimicrobial Resistance of Vegetable-Derived <i>Escherichia coli</i>: A Nationwide Comparative Analysis"
-      year: "August 2026"
-      description:
-        - "Poster presentation, BSVER ASCon XXXIV, Bangladesh Agricultural University, Mymensingh, Bangladesh."
-        - "Authors: <b>Afsan Sarwer</b>, Naeem Ahammed Ibrahim Fahim, Md. Liton Rana, Amrita Pondit, Saifur Rahman, Ricardo Oliva, and Md. Tanvir Rahman."
+    Publications:
+      - name: "Genome-wide analysis of extended-spectrum beta-lactamase-producing Escherichia coli from seafood in Bangladesh: population structure, resistome, virulome, and global dissemination patterns"
+        authors:
+          - "Afsan Sarwer"
+          - "Naeem Ahammed Ibrahim Fahim"
+          - "Zannatul Firdous"
+          - "et al."
+        journal: "Frontiers in Microbiology"
+        date: "2026"
+        url: "https://doi.org/10.3389/fmicb.2026.1737712"
 
-    - title: "Whole-Genome-Based Global Phylogeny, Population Structure, and Resistome Profiling of ESBL-producing <i>Escherichia coli</i> from Seafood in Bangladesh"
-      year: "February 2026"
-      description:
-        - "Poster presentation, Gazipur Agricultural University International Conference, Gazipur, Bangladesh."
-        - "Authors: Naeem Ahammed Ibrahim Fahim, <b>Afsan Sarwer</b>, Zannatul Firdous, Md. Saiful Islam, Saifur Rahman, Jayedul Hassan, Timothy R. Walsh, Refath Farzana, and Md. Tanvir Rahman."
+    Conference Presentations:
+      - name: "Genomic Epidemiology and Plasmid-Associated Antimicrobial Resistance of Vegetable-Derived Escherichia coli: A Nationwide Comparative Analysis"
+        location: "Bangladesh Agricultural University, Mymensingh, Bangladesh"
+        date: "2026-08"
+        highlights:
+          - "Poster presentation, BSVER ASCon XXXIV."
+          - "Authors: Afsan Sarwer, Naeem Ahammed Ibrahim Fahim, Md. Liton Rana, Amrita Pondit, Saifur Rahman, Ricardo Oliva, and Md. Tanvir Rahman."
 
-    - title: "Whole-Genome-Based Global Phylogeny, Population Structure, and Resistome Profiling of ESBL-producing <i>Escherichia coli</i> from Seafood in Bangladesh"
-      year: "October 2025"
-      description:
-        - "Poster presentation, International Conference on Life Science, Shahjalal University of Science and Technology, Sylhet, Bangladesh."
-        - "Authors: Naeem Ahammed Ibrahim Fahim, <b>Afsan Sarwer</b>, Zannatul Firdous, Md. Saiful Islam, Saifur Rahman, Jayedul Hassan, Timothy R. Walsh, Refath Farzana, and Md. Tanvir Rahman."
+      - name: "Whole-Genome-Based Global Phylogeny, Population Structure, and Resistome Profiling of ESBL-producing Escherichia coli from Seafood in Bangladesh"
+        location: "Gazipur, Bangladesh"
+        date: "2026-02"
+        highlights:
+          - "Poster presentation, Gazipur Agricultural University International Conference."
+          - "Authors: Naeem Ahammed Ibrahim Fahim, Afsan Sarwer, Zannatul Firdous, Md. Saiful Islam, Saifur Rahman, Jayedul Hassan, Timothy R. Walsh, Refath Farzana, and Md. Tanvir Rahman."
 
-    - title: "Livestock Endoparasite Detection with Machine Vision and Deep Learning"
-      year: "November 2024"
-      description:
-        - "Poster presentation, National Science and Technology Complex, Agargaon, Dhaka, Bangladesh."
-        - "Authors: <b>Afsan Sarwer</b> and Md. Fahim Shahria."
+      - name: "Whole-Genome-Based Global Phylogeny, Population Structure, and Resistome Profiling of ESBL-producing Escherichia coli from Seafood in Bangladesh"
+        location: "Shahjalal University of Science and Technology, Sylhet, Bangladesh"
+        date: "2025-10"
+        highlights:
+          - "Poster presentation, International Conference on Life Science."
+          - "Authors: Naeem Ahammed Ibrahim Fahim, Afsan Sarwer, Zannatul Firdous, Md. Saiful Islam, Saifur Rahman, Jayedul Hassan, Timothy R. Walsh, Refath Farzana, and Md. Tanvir Rahman."
 
-- title: "Technical Skills"
-  type: "nested_list"
-  contents:
-    - title: "Genomics and Bioinformatics"
-      items:
-        - "Whole-genome sequencing analysis"
-        - "Comparative genomics and pangenomics"
-        - "Phylogenetics and genomic epidemiology"
-        - "Plasmid and mobile genetic element analysis"
-        - "Antimicrobial resistance and virulence profiling"
+      - name: "Livestock Endoparasite Detection with Machine Vision and Deep Learning"
+        location: "National Science and Technology Complex, Agargaon, Dhaka, Bangladesh"
+        date: "2024-11"
+        highlights:
+          - "Poster presentation."
+          - "Authors: Afsan Sarwer and Md. Fahim Shahria."
 
-    - title: "Computational"
-      items:
-        - "Python"
-        - "R"
-        - "Linux and Bash"
-        - "Statistical analysis and data visualization"
-        - "Machine learning and deep learning"
+    Technical Skills:
+      - label: "Genomics and Bioinformatics"
+        details: "Whole-genome sequencing analysis; comparative genomics and pangenomics; phylogenetics and genomic epidemiology; plasmid and mobile genetic element analysis; antimicrobial resistance and virulence profiling."
 
-    - title: "Software and Tools"
-      items:
-        - "Anvi'o"
-        - "PanACoTA"
-        - "Roary"
-        - "OrthoFinder"
-        - "Parsnp"
-        - "kSNP4"
-        - "Snippy"
-        - "Gubbins"
-        - "IQ-TREE"
-        - "RAxML"
-        - "MOB-suite"
-        - "Cytoscape"
-        - "seqkit"
-        - "Biopython"
-```
+      - label: "Computational"
+        details: "Python; R; Linux and Bash; statistical analysis; data visualization; machine learning and deep learning."
+
+      - label: "Software and Tools"
+        details: "Anvi'o; PanACoTA; Roary; OrthoFinder; Parsnp; kSNP4; Snippy; Gubbins; IQ-TREE; RAxML; MOB-suite; Cytoscape; seqkit; Biopython."
+
+design:
+  theme: "classic"
+
+locale:
+  language: "english"
+
+settings:
+  render_command:
+    design: "../assets/rendercv/design.yaml"
+    locale: "../assets/rendercv/locale.yaml"
+    typst_path: "../assets/rendercv/rendercv_output/NAME_IN_SNAKE_CASE_CV.typ"
+    pdf_path: "../assets/rendercv/rendercv_output/NAME_IN_SNAKE_CASE_CV.pdf"
+    markdown_path: "../assets/rendercv/rendercv_output/NAME_IN_SNAKE_CASE_CV.md"
+    html_path: "../assets/rendercv/rendercv_output/NAME_IN_SNAKE_CASE_CV.html"
+    png_path: "../assets/rendercv/rendercv_output/NAME_IN_SNAKE_CASE_CV.png"
+    dont_generate_markdown: true
+    dont_generate_html: true
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: true
+  bold_keywords: []
