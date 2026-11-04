@@ -190,3 +190,9 @@
     overflow-x: auto;
   }
 }
+
+.academic-publication img.academic-brand-logo {
+  background: #fff;
+  padding: 0.4rem;
+  border-radius: 0.25rem;
+}
