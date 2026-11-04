@@ -9,8 +9,8 @@ last_name: Sarwer
 contact_note: >
   For academic and research inquiries, please use the contact information provided on this website.
 description: >
-  DVM and MSc researcher working in microbial genomics, antimicrobial resistance,
-  comparative genomics, bioinformatics, and computational biology.
+  Academic portfolio of Afsan Sarwer, DVM and MS researcher at Bangladesh Agricultural University.
+  Microbial genomics, antimicrobial resistance, comparative genomics, and plasmid biology.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -96,10 +96,10 @@ al_folio:
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: true
 socials_in_search: true
-posts_in_search: true
+posts_in_search: false
 bib_search: true
 
 # Dimensions
@@ -190,17 +190,7 @@ newsletter:
 # Collections
 # -----------------------------------------------------------------------------
 
-collections:
-  books:
-    output: true
-  news:
-    defaults:
-      layout: post
-    output: true
-  projects:
-    output: true
-  teachings:
-    output: true
+collections: {}
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -222,6 +212,26 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
+  - _posts/
+  - _projects/
+  - _news/
+  - _books/
+  - _teachings/
+  - test/
+  - assets/pdf/example_pdf.pdf
+  - assets/html/
+  - assets/plotly/demo.html
+  - assets/json/table_data.json
+  - _pages/repositories.md
+  - _pages/books.md
+  - _pages/blog.md
+  - _pages/profiles.md
+  - _pages/news.md
+  - _pages/projects.md
+  - _pages/dropdown.md
+  - _pages/plugins.md
+  - _pages/teaching.md
+  - _pages/cv.md
   - AGENTS.md
   - al-folio-upgrade-report.md
   - bin/
