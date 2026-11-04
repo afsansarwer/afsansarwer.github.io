@@ -2,7 +2,7 @@
 layout: about
 title: Profile
 permalink: /
-subtitle: Veterinarian · MS researcher in Microbiology · Bangladesh Agricultural University
+subtitle: DVM · MS in Microbiology · Bangladesh Agricultural University
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url | bust_file_cache }}">
@@ -11,13 +11,14 @@ subtitle: Veterinarian · MS researcher in Microbiology · Bangladesh Agricultur
   <div>
     <p class="academic-eyebrow">Microbial genomics &amp; antimicrobial resistance</p>
     <p class="academic-lead">I study antibiotic resistance in bacteria from animals, food, and their environments in Bangladesh.</p>
-    <p>I am a veterinarian, an MS student in Microbiology, and a Research Assistant in the MTR Lab at Bangladesh Agricultural University. My work combines bacterial culture and molecular testing with whole-genome sequence analysis.</p>
+    <p>I am a veterinarian and microbiology researcher. I completed my MS in Microbiology at Bangladesh Agricultural University in October 2026 and work as a Research Assistant in the MTR Lab. My work combines bacterial culture and molecular testing with whole-genome sequence analysis.</p>
     <p>I want to understand how resistance genes move between bacterial populations, particularly through plasmids and other mobile genetic elements. I am seeking PhD opportunities in microbial genomics, bacterial evolution, and antimicrobial resistance.</p>
     <div class="academic-links">
       <a class="academic-button" href="{{ '/research/' | relative_url }}">Explore my research</a>
       <a href="mailto:afsansarwer.bd@gmail.com">Email me</a>
       <a href="https://github.com/afsansarwer">GitHub</a>
       <a href="https://www.linkedin.com/in/afsansarwer/">LinkedIn</a>
+      <a href="https://orcid.org/0009-0004-5089-3975">ORCID</a>
     </div>
   </div>
   <figure class="academic-portrait">
@@ -38,10 +39,10 @@ subtitle: Veterinarian · MS researcher in Microbiology · Bangladesh Agricultur
   <h2>Education</h2>
   <div class="academic-grid">
     <div class="academic-card">
-      <p class="academic-meta">April 2025–present · In progress</p>
+      <p class="academic-meta">April 2025–October 2026 · Completed</p>
       <h3>MS in Microbiology</h3>
       <p>Department of Microbiology and Hygiene, Faculty of Veterinary Science<br>Bangladesh Agricultural University</p>
-      <p>My thesis examines <i>Staphylococcus aureus</i>, <i>Enterococcus faecalis</i>, and <i>Rhodococcus equi</i> from horses and associated environments using molecular and phenotypic methods.</p>
+      <p>My MS thesis examined <i>Staphylococcus aureus</i>, <i>Enterococcus faecalis</i>, and <i>Rhodococcus equi</i> from horses and associated environments using molecular and phenotypic methods.</p>
       <p class="academic-meta">Supervisor · Prof. Dr. Md. Tanvir Rahman<br>Co-supervisor · Prof. Dr. Mahbubul Pratik Siddique</p>
     </div>
     <div class="academic-card">
@@ -87,8 +88,8 @@ subtitle: Veterinarian · MS researcher in Microbiology · Bangladesh Agricultur
   <p class="academic-eyebrow">Research communication</p>
   <h2>Awards &amp; presentations</h2>
   <ul class="academic-list">
-    <li><strong>Best Poster Presentation</strong> · Bioinformatics and Computational Biology category, International Conference of Life Sciences, SUST · 2025</li>
-    <li><strong>Best Poster Presentation</strong> · Fisheries and Blue Economy category, Gazipur Agricultural University International Conference · 2025</li>
+    <li><strong>First place · Best Poster Presentation</strong> · Bioinformatics and Computational Biology category, International Conference of Life Sciences, SUST · 2025</li>
+    <li><strong>First place · Best Poster Presentation</strong> · Fisheries and Blue Economy category, Gazipur Agricultural University International Conference · 2025</li>
     <li><strong>Poster presentations</strong> · BSVER ASCon XXXIV, 2026, and the 23rd Science Council of Asia Conference, 2024</li>
   </ul>
   <p><a href="{{ '/moments/' | relative_url }}">Photos from conferences and fieldwork →</a></p>

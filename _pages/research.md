@@ -37,13 +37,13 @@ Fahim, Sarwer, et al. · _Frontiers in Microbiology_ · 2026. [Read the publicat
 
 <section class="academic-section" id="thesis" markdown="1">
 
-<p class="academic-eyebrow">MS thesis · Ongoing research</p>
+<p class="academic-eyebrow">MS thesis · Completed October 2026</p>
 
 ## Bacteria from horses and their environments
 
-My thesis is titled “Molecular and Phenotypic Characterization of _Staphylococcus aureus_, _Enterococcus faecalis_, and _Rhodococcus equi_ from Horses and Associated Environments in Bangladesh.”
+My completed MS thesis is titled “Molecular and Phenotypic Characterization of _Staphylococcus aureus_, _Enterococcus faecalis_, and _Rhodococcus equi_ from Horses and Associated Environments in Bangladesh.”
 
-I collected horse and environmental samples, cultured bacteria, performed PCR-based detection, and assessed antimicrobial susceptibility and biofilm formation. I am also examining _E. faecalis_ genomes for resistance determinants, plasmid associations, and mobile genetic elements.
+I collected horse and environmental samples, cultured bacteria, performed PCR-based detection, and assessed antimicrobial susceptibility and biofilm formation. My related genomic work examines _E. faecalis_ genomes for resistance determinants, plasmid associations, and mobile genetic elements.
 
 This work asks how phenotypic resistance relates to molecular findings and how bacterial characteristics differ among sample sources. It connects field sampling and laboratory microbiology with genomic interpretation.
 
@@ -87,7 +87,7 @@ The workflow records the original contig coordinates and retains unresolved clas
 
 With advice from Dr. A K M Anisur Rahman, I developed a YOLOv8 prototype to detect livestock parasite eggs and cysts in microscopy images. I worked on image annotation, model training in Google Colab, and evaluation using precision, recall, F1-score, and mean average precision.
 
-I presented the exploratory work at the 23rd Science Council of Asia Conference in Dhaka in 2024. It introduced me to evaluating computational methods on biological image data.
+I presented the exploratory work at the 23rd Science Council of Asia Conference in Dhaka in 2024. The study is available as a [bioRxiv preprint](https://doi.org/10.64898/2026.08.21.746375), posted in August 2026.
 
 </section>
 
@@ -106,6 +106,6 @@ I presented the exploratory work at the 23rd Science Council of Asia Conference 
 | Computing              | Bash/Linux workflows, environment management, troubleshooting, and Python for processing tabular outputs and making figures. Basic R for data exploration and visualization |
 | Research communication | Data validation, figure preparation, poster presentations, and manuscript contributions                                                                                     |
 
-Tools I have used include FastQC, Trimmomatic, SPAdes, QUAST, Prokka, ABRicate, MOB-suite, PanACoTA, Parsnp, and iTOL. I choose methods according to the biological question and the available data.
+I work with a broad range of bioinformatics tools across bacterial genomics and comparative analysis. I independently install, configure, run, and troubleshoot software, manage computational environments, and build reproducible workflows. I can set up new tools as a project requires, select methods for the biological question, and validate their outputs.
 
 </section>

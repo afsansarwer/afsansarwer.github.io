@@ -37,6 +37,20 @@ A genome resource report describing a multidrug-resistant isolate from dairy cat
 
 </section>
 
+<section class="academic-section" id="preprints" markdown="1">
+
+## Preprints
+
+### Automated Detection of Livestock Gastrointestinal Parasite Eggs and Cysts Using YOLOv8-Based Deep Learning
+
+**Afsan Sarwer** · _bioRxiv_ · Posted 26 August 2026 · Preprint
+
+An exploratory YOLOv8 study of parasite egg and cyst detection in livestock microscopy images, covering image annotation, model training, and performance evaluation.
+
+[Read preprint · DOI 10.64898/2026.08.21.746375](https://doi.org/10.64898/2026.08.21.746375)
+
+</section>
+
 <section class="academic-section" id="conferences">
   <p class="academic-eyebrow">Posters &amp; awards</p>
   <h2>Conference presentations</h2>
@@ -57,7 +71,7 @@ A genome resource report describing a multidrug-resistant isolate from dairy cat
   <div>
     <p class="academic-meta">GAU International Conference · Gazipur · 2025</p>
     <h3>Whole-Genome-Based Global Phylogeny, Population Structure, and Resistome Profiling of ESBL-producing <i>Escherichia coli</i> from Seafood in Bangladesh</h3>
-    <p><strong>Presenting author · Best Poster Presentation, Fisheries and Blue Economy.</strong></p>
+    <p><strong>Presenting author · Best Poster Presentation. First place among all posters in the Fisheries and Blue Economy category.</strong></p>
     <p>Naeem Ahammed Ibrahim Fahim, <strong>Afsan Sarwer</strong>, Zannatul Firdous, Md. Saiful Islam, Saifur Rahman, Jayedul Hassan, Timothy R. Walsh, Refath Farzana, and Md. Tanvir Rahman.</p>
     <p><a href="https://lnkd.in/p/gt3rZeZD">Award announcement on LinkedIn</a></p>
   </div>
@@ -68,7 +82,7 @@ A genome resource report describing a multidrug-resistant isolate from dairy cat
   <div>
     <p class="academic-meta">International Conference of Life Sciences · SUST, Sylhet · 2025</p>
     <h3>Whole-Genome-Based Global Phylogeny, Population Structure, and Resistome Profiling of ESBL-producing <i>Escherichia coli</i> from Seafood in Bangladesh</h3>
-    <p><strong>Best Poster Presentation, Bioinformatics and Computational Biology.</strong></p>
+    <p><strong>Best Poster Presentation. First place among all posters in the Bioinformatics and Computational Biology category.</strong></p>
     <p>Naeem Ahammed Ibrahim Fahim, <strong>Afsan Sarwer</strong>, Zannatul Firdous, Md. Saiful Islam, Saifur Rahman, Jayedul Hassan, Timothy R. Walsh, Refath Farzana, and Md. Tanvir Rahman.</p>
     <p><a href="https://lnkd.in/p/gz8JumG2">Award announcement on LinkedIn</a></p>
   </div>

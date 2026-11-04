@@ -1,6 +1,6 @@
 cv:
   name: Afsan Sarwer
-  headline: DVM | MS researcher in Microbiology | Microbial genomics and AMR
+  headline: DVM | MS in Microbiology | Microbial genomics and AMR
   location: Mymensingh, Bangladesh
   sections:
     Education:
@@ -8,9 +8,9 @@ cv:
         area: Microbiology
         degree: MS in Microbiology
         start_date: 2025-04
-        end_date: present
+        end_date: 2026-10
         highlights:
-          - In progress
+          - Completed October 2026
           - "Supervisor: Prof. Dr. Md. Tanvir Rahman"
           - "Co-supervisor: Prof. Dr. Mahbubul Pratik Siddique"
       - institution: Bangladesh Agricultural University
@@ -42,11 +42,11 @@ cv:
         highlights:
           - Co-author. Contribution to manuscript review and editing.
     Awards:
-      - name: Best Poster Presentation, Bioinformatics and Computational Biology
+      - name: First place, Best Poster Presentation, Bioinformatics and Computational Biology
         date: "2025"
         highlights:
           - International Conference of Life Sciences, SUST
-      - name: Best Poster Presentation, Fisheries and Blue Economy
+      - name: First place, Best Poster Presentation, Fisheries and Blue Economy
         date: "2025"
         highlights:
           - Gazipur Agricultural University International Conference
@@ -57,3 +57,11 @@ cv:
         details: Bacterial culture, PCR, DNA extraction, Antimicrobial susceptibility testing
       - label: Computing
         details: Bash/Linux, Python, Basic R, Data visualization
+      - label: Bioinformatics workflows
+        details: Independent software installation, configuration, execution, environment management, troubleshooting, and adaptation of new tools.
+    Preprints:
+      - name: Automated Detection of Livestock Gastrointestinal Parasite Eggs and Cysts Using YOLOv8-Based Deep Learning
+        date: "2026-08-26"
+        url: https://doi.org/10.64898/2026.08.21.746375
+        highlights:
+          - Sole author. bioRxiv preprint. DOI 10.64898/2026.08.21.746375.

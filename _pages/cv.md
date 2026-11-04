@@ -7,7 +7,7 @@ nav: false
 
 ## Education
 
-- **MS in Microbiology**, Bangladesh Agricultural University · April 2025–present, in progress.
+- **MS in Microbiology**, Bangladesh Agricultural University · April 2025–October 2026, completed.
 - **Doctor of Veterinary Medicine**, Bangladesh Agricultural University · 2019–2025.
 
 ## Research experience

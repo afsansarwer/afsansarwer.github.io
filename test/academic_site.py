@@ -16,8 +16,11 @@ for page in pages:
     assert not re.search(r'"(?:Posts|Books|News|Projects|Teachings)"', search.group(1)), page
 
 home = (site / 'index.html').read_text()
-for text in ['MS in Microbiology', 'Doctor of Veterinary Medicine', '2019–2025', 'April 2025', 'afsansarwer.bd@gmail.com']:
+for text in ['MS in Microbiology', 'Doctor of Veterinary Medicine', '2019–2025', 'April 2025–October 2026', 'Completed', 'afsansarwer.bd@gmail.com']:
     assert text in home, ('education or contact missing', text)
+assert 'MS student' not in home, 'outdated degree status'
+publications = (site / 'publications/index.html').read_text()
+assert '10.64898/2026.08.21.746375' in publications, 'preprint missing'
 for asset in ['academic.css']:
     assert (site / 'assets/css' / asset).is_file(), asset
 for asset in ['prof_pic.jpg', 'sust-award.webp', 'horse-sampling.webp', 'gau-poster.webp']:

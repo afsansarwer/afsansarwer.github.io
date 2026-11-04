@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Afsan Sarwer",
-    "label": "Veterinarian and MS researcher in Microbiology",
+    "label": "DVM, MS in Microbiology | Microbiology researcher",
     "email": "afsansarwer.bd@gmail.com",
     "summary": "Research Assistant in the MTR Lab at Bangladesh Agricultural University, studying bacterial genomics and antimicrobial resistance. Seeking PhD opportunities in microbial genomics, bacterial evolution, and AMR.",
     "location": {
@@ -18,6 +18,11 @@
         "network": "LinkedIn",
         "username": "afsansarwer",
         "url": "https://www.linkedin.com/in/afsansarwer/"
+      },
+      {
+        "network": "ORCID",
+        "username": "0009-0004-5089-3975",
+        "url": "https://orcid.org/0009-0004-5089-3975"
       }
     ]
   },
@@ -27,8 +32,9 @@
       "area": "Microbiology",
       "studyType": "MS",
       "startDate": "2025-04",
-      "summary": "In progress. Department of Microbiology and Hygiene, Faculty of Veterinary Science. Thesis on molecular and phenotypic characterization of bacteria from horses and associated environments.",
-      "courses": []
+      "summary": "Completed October 2026. Department of Microbiology and Hygiene, Faculty of Veterinary Science. Thesis on molecular and phenotypic characterization of bacteria from horses and associated environments.",
+      "courses": [],
+      "endDate": "2026-10"
     },
     {
       "institution": "Bangladesh Agricultural University",
@@ -54,14 +60,16 @@
   ],
   "awards": [
     {
-      "title": "Best Poster Presentation, Bioinformatics and Computational Biology",
+      "title": "First place, Best Poster Presentation, Bioinformatics and Computational Biology",
       "date": "2025",
-      "awarder": "International Conference of Life Sciences, SUST"
+      "awarder": "International Conference of Life Sciences, SUST",
+      "summary": "Ranked first among all posters in the named category."
     },
     {
-      "title": "Best Poster Presentation, Fisheries and Blue Economy",
+      "title": "First place, Best Poster Presentation, Fisheries and Blue Economy",
       "date": "2025",
-      "awarder": "Gazipur Agricultural University International Conference"
+      "awarder": "Gazipur Agricultural University International Conference",
+      "summary": "Ranked first among all posters in the named category."
     }
   ],
   "publications": [
@@ -78,6 +86,13 @@
       "releaseDate": "2026-09-21",
       "url": "https://doi.org/10.1128/mra.00773-26",
       "summary": "Co-author. Contribution to manuscript review and editing."
+    },
+    {
+      "name": "Automated Detection of Livestock Gastrointestinal Parasite Eggs and Cysts Using YOLOv8-Based Deep Learning",
+      "publisher": "bioRxiv (preprint)",
+      "releaseDate": "2026-08-26",
+      "url": "https://doi.org/10.64898/2026.08.21.746375",
+      "summary": "Sole-author preprint on a YOLOv8 workflow for detecting livestock parasite eggs and cysts in microscopy images."
     }
   ],
   "skills": [
@@ -92,6 +107,17 @@
     {
       "name": "Computing",
       "keywords": ["Bash/Linux", "Python", "Basic R", "Data visualization"]
+    },
+    {
+      "name": "Bioinformatics software and workflows",
+      "keywords": [
+        "Software installation and configuration",
+        "Environment management",
+        "Command-line tool execution",
+        "Troubleshooting",
+        "Adapting new tools",
+        "Output validation"
+      ]
     }
   ],
   "projects": [
