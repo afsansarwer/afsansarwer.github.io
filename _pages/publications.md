@@ -23,7 +23,9 @@ description: Peer-reviewed articles, research contributions, and conference pres
   </div>
 </section>
 
-<section class="academic-section" markdown="1">
+<section class="academic-publication">
+  <img src="{{ '/assets/img/asm-logo.svg' | relative_url }}" class="academic-brand-logo" width="1236" height="403" loading="lazy" decoding="async" alt="ASM — American Society for Microbiology">
+  <div markdown="1">
 
 ### Draft genome sequence of a multidrug-resistant _Klebsiella pneumoniae_ MTRKPMMI01 strain isolated from a diarrheic dairy cow in Bangladesh
 
@@ -35,11 +37,14 @@ A genome resource report describing a multidrug-resistant isolate from dairy cat
 
 [Read article · DOI 10.1128/mra.00773-26](https://doi.org/10.1128/mra.00773-26)
 
+  </div>
 </section>
 
-<section class="academic-section" id="preprints" markdown="1">
+<h2 class="academic-section" id="preprints">Preprints</h2>
 
-## Preprints
+<section class="academic-publication">
+  <img src="{{ '/assets/img/biorxiv-logo.svg' | relative_url }}" class="academic-brand-logo" width="800" height="271" loading="lazy" decoding="async" alt="bioRxiv">
+  <div markdown="1">
 
 ### Automated Detection of Livestock Gastrointestinal Parasite Eggs and Cysts Using YOLOv8-Based Deep Learning
 
@@ -49,6 +54,7 @@ An exploratory YOLOv8 study of parasite egg and cyst detection in livestock micr
 
 [Read preprint · DOI 10.64898/2026.08.21.746375](https://doi.org/10.64898/2026.08.21.746375)
 
+  </div>
 </section>
 
 <section class="academic-section" id="conferences">
