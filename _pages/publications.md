@@ -7,7 +7,7 @@ nav_order: 2
 description: Peer-reviewed articles, research contributions, and conference presentations.
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url | bust_file_cache }}">
 
 ## Peer-reviewed articles
 

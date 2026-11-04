@@ -7,7 +7,7 @@ nav_order: 1
 description: Bacterial genomes, mobile resistance genes, and microbiology in Bangladesh.
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url | bust_file_cache }}">
 
 <p class="academic-lead">How do bacteria acquire resistance, and what can their genomes tell us about its movement across animals, food, and the environment?</p>
 

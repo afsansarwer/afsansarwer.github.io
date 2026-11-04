@@ -7,15 +7,15 @@ nav_order: 3
 description: Conferences, poster awards, and fieldwork.
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url | bust_file_cache }}">
 
 <div class="academic-moments">
   <figure >
-    <img src="{{ '/assets/img/sust-award.webp' | relative_url }}" class="img-fluid rounded" alt="Holding my award plaque and certificate at SUST">
+    <img src="{{ '/assets/img/sust-award.webp' | relative_url }}" class="img-fluid rounded" width="426" height="900" decoding="async" alt="Holding my award plaque and certificate at SUST">
     <figcaption class="mt-2"><strong>Best Poster at SUST · 2025</strong><br>I won Best Poster Presentation in Bioinformatics and Computational Biology at the International Conference of Life Sciences in Sylhet. <a href="https://lnkd.in/p/gz8JumG2">SUST award on LinkedIn</a></figcaption>
   </figure>
   <figure >
-    <img src="{{ '/assets/img/horse-sampling.webp' | relative_url }}" class="img-fluid rounded" alt="Preparing a swab while a handler steadies a horse">
+    <img src="{{ '/assets/img/horse-sampling.webp' | relative_url }}" class="img-fluid rounded" width="900" height="675" decoding="async" alt="Preparing a swab while a handler steadies a horse">
     <figcaption class="mt-2"><strong>Sampling horses for my thesis</strong><br>I collected samples from horses and their surroundings to study antibiotic resistance in the bacteria we isolated.</figcaption>
   </figure>
 </div>

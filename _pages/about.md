@@ -5,7 +5,7 @@ permalink: /
 subtitle: Veterinarian · MS researcher in Microbiology · Bangladesh Agricultural University
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url | bust_file_cache }}">
 
 <div class="academic-hero">
   <div>
