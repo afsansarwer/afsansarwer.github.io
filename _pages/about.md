@@ -15,7 +15,7 @@ subtitle: DVM · MS in Microbiology · Bangladesh Agricultural University
     <p>I want to understand how resistance genes move between bacterial populations, particularly through plasmids and other mobile genetic elements. I am seeking PhD opportunities in microbial genomics, bacterial evolution, and antimicrobial resistance.</p>
     <div class="academic-links">
       <a class="academic-button" href="{{ '/research/' | relative_url }}">Explore my research</a>
-      <a href="mailto:afsansarwer.bd@gmail.com">Email me</a>
+      <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=afsan.1901154%40bau.edu.bd" target="_blank" rel="noopener noreferrer">Email me</a>
       <a href="https://github.com/afsansarwer">GitHub</a>
       <a href="https://www.linkedin.com/in/afsansarwer/">LinkedIn</a>
       <a href="https://orcid.org/0009-0004-5089-3975">ORCID</a>
@@ -23,7 +23,6 @@ subtitle: DVM · MS in Microbiology · Bangladesh Agricultural University
   </div>
   <figure class="academic-portrait">
     <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Afsan Sarwer" decoding="async">
-    <figcaption>Mymensingh, Bangladesh</figcaption>
   </figure>
 </div>
 
@@ -43,7 +42,7 @@ subtitle: DVM · MS in Microbiology · Bangladesh Agricultural University
       <h3>MS in Microbiology</h3>
       <p>Department of Microbiology and Hygiene, Faculty of Veterinary Science<br>Bangladesh Agricultural University</p>
       <p>My MS thesis examined <i>Staphylococcus aureus</i>, <i>Enterococcus faecalis</i>, and <i>Rhodococcus equi</i> from horses and associated environments using molecular and phenotypic methods.</p>
-      <p class="academic-meta">Supervisor · Prof. Dr. Md. Tanvir Rahman<br>Co-supervisor · Prof. Dr. Mahbubul Pratik Siddique</p>
+      <p class="academic-meta">Supervisor · Prof. Dr. Md. Tanvir Rahman<br>Co-supervisor · <a href="https://bau.edu.bd/profile/VMH1015">Prof. Dr. Jayedul Hassan</a></p>
     </div>
     <div class="academic-card">
       <p class="academic-meta">2019–2025</p>
@@ -98,5 +97,5 @@ subtitle: DVM · MS in Microbiology · Bangladesh Agricultural University
 <section class="academic-contact" aria-labelledby="contact-heading">
   <h2 id="contact-heading">PhD research interests</h2>
   <p>I would like to investigate bacterial evolution, plasmid-mediated resistance, and genomic epidemiology through doctoral research. I am interested in projects that connect genomic patterns with microbiological evidence.</p>
-  <p><a href="mailto:afsansarwer.bd@gmail.com">afsansarwer.bd@gmail.com</a></p>
+  <p><a href="mailto:afsan.1901154@bau.edu.bd">afsan.1901154@bau.edu.bd</a></p>
 </section>

@@ -47,7 +47,7 @@ I collected horse and environmental samples, cultured bacteria, performed PCR-ba
 
 This work asks how phenotypic resistance relates to molecular findings and how bacterial characteristics differ among sample sources. It connects field sampling and laboratory microbiology with genomic interpretation.
 
-Supervised by Prof. Dr. Md. Tanvir Rahman and co-supervised by Prof. Dr. Mahbubul Pratik Siddique, Bangladesh Agricultural University.
+Supervised by Prof. Dr. Md. Tanvir Rahman and co-supervised by [Prof. Dr. Jayedul Hassan](https://bau.edu.bd/profile/VMH1015), Bangladesh Agricultural University.
 
 </section>
 

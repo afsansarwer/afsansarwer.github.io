@@ -16,7 +16,7 @@ for page in pages:
     assert not re.search(r'"(?:Posts|Books|News|Projects|Teachings)"', search.group(1)), page
 
 home = (site / 'index.html').read_text()
-for text in ['MS in Microbiology', 'Doctor of Veterinary Medicine', '2019–2025', 'April 2025–October 2026', 'Completed', 'afsansarwer.bd@gmail.com']:
+for text in ['MS in Microbiology', 'Doctor of Veterinary Medicine', '2019–2025', 'April 2025–October 2026', 'Completed', 'afsan.1901154@bau.edu.bd']:
     assert text in home, ('education or contact missing', text)
 assert 'MS student' not in home, 'outdated degree status'
 publications = (site / 'publications/index.html').read_text()
