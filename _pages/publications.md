@@ -11,10 +11,12 @@ nav_order: 2
 <div class="row mb-5 pb-4">
   <div class="col-md-2 text-center mb-4 mb-md-0">
     <img
-      src="/assets/img/frontiers_microbiology_logo.png"
+      src="/assets/img/frontiers_microbiology_logo.webp"
+      width="240" height="240"
+      decoding="async"
       alt="Frontiers in Microbiology"
       class="img-fluid"
-      style="max-height: 120px;"
+      style="max-width: min(100%, 150px); max-height: 120px; width: auto; height: auto;"
     >
   </div>
 
@@ -59,10 +61,13 @@ nav_order: 2
 <div class="row mb-5 pb-4">
   <div class="col-md-2 text-center mb-4 mb-md-0">
     <img
-      src="/assets/img/bsver_logo.png"
+      src="/assets/img/bsver_logo.webp"
+      width="240" height="240"
+      decoding="async"
+      loading="lazy"
       alt="BSVER ASCon XXXIV"
       class="img-fluid"
-      style="max-height: 120px;"
+      style="max-width: min(100%, 150px); max-height: 120px; width: auto; height: auto;"
     >
   </div>
 
@@ -95,10 +100,13 @@ nav_order: 2
 <div class="row mb-5 pb-4">
   <div class="col-md-2 text-center mb-4 mb-md-0">
     <img
-      src="/assets/img/GAUIC_logo.jpg"
+      src="/assets/img/GAUIC_logo.webp"
+      width="300" height="102"
+      decoding="async"
+      loading="lazy"
       alt="Gazipur Agricultural University International Conference"
       class="img-fluid"
-      style="max-height: 120px;"
+      style="max-width: min(100%, 150px); max-height: 120px; width: auto; height: auto;"
     >
   </div>
 
@@ -133,10 +141,13 @@ nav_order: 2
 <div class="row mb-5 pb-4">
   <div class="col-md-2 text-center mb-4 mb-md-0">
     <img
-      src="/assets/img/ICLS_logo.png"
+      src="/assets/img/ICLS_logo.webp"
+      width="240" height="240"
+      decoding="async"
+      loading="lazy"
       alt="International Conference on Life Science"
       class="img-fluid"
-      style="max-height: 120px;"
+      style="max-width: min(100%, 150px); max-height: 120px; width: auto; height: auto;"
     >
   </div>
 
@@ -170,10 +181,13 @@ nav_order: 2
 <div class="row mb-5 pb-4">
   <div class="col-md-2 text-center mb-4 mb-md-0">
     <img
-      src="/assets/img/SCAC_logo.png"
+      src="/assets/img/SCAC_logo.webp"
+      width="300" height="131"
+      decoding="async"
+      loading="lazy"
       alt="National Science and Technology Complex"
       class="img-fluid"
-      style="max-height: 120px;"
+      style="max-width: min(100%, 150px); max-height: 120px; width: auto; height: auto;"
     >
   </div>
 
