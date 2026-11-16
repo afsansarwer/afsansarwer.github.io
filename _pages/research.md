@@ -64,7 +64,7 @@ Supervised by [Prof. Dr. Md. Tanvir Rahman](https://bau.edu.bd/profile/VMH1005) 
   </a>
   <figcaption>Study workflow from horse and environmental sampling to culture, phenotypic testing, and molecular detection.</figcaption>
 </figure>
-<div class="academic-gallery-grid"><figure class="academic-gallery-figure academic-science-figure">
+<div class="academic-gallery-grid academic-science-gallery"><figure class="academic-gallery-figure academic-science-figure">
   <a href="{{ '/assets/img/r-equi-modified-medium.webp' | relative_url }}" aria-label="Rhodococcus equi culture on modified nutrient agar with supplements">
     <img src="{{ '/assets/img/r-equi-modified-medium.webp' | relative_url }}" alt="Rhodococcus equi culture on modified nutrient agar with supplements" width="2048" height="1985" loading="lazy" decoding="async">
   </a>
@@ -95,7 +95,8 @@ I presented this work at BSVER ASCon XXXIV in 2026. [Conference details]({{ '/pu
     <img src="{{ '/assets/img/vegetable-plasmid-network.webp' | relative_url }}" alt="Plasmid network from the vegetable-derived E. coli comparative genomics project" width="2048" height="1309" loading="lazy" decoding="async">
   </a>
   <figcaption>Plasmid network colored by AMR risk category, location, and sample source. Arrows identify the five vegetable isolates.</figcaption>
-</figure><figure class="academic-gallery-figure academic-science-figure">
+</figure>
+<figure class="academic-gallery-figure academic-science-figure academic-science-figure--compact">
   <a href="{{ '/assets/img/vegetable-pangenome.webp' | relative_url }}" aria-label="Pangenome visualization of the five local vegetable-derived E. coli isolates">
     <img src="{{ '/assets/img/vegetable-pangenome.webp' | relative_url }}" alt="Pangenome visualization of the five local vegetable-derived E. coli isolates" width="2048" height="1925" loading="lazy" decoding="async">
   </a>
@@ -116,11 +117,11 @@ The workflow records the original contig coordinates and retains unresolved clas
 
 [Source code, installation, and validation notes](https://github.com/afsansarwer/ChromoPlas)
 
-<figure class="academic-gallery-figure academic-science-figure">
-<a href="{{ '/assets/img/chromoplas-mtrkpmmi01-output.webp' | relative_url }}" aria-label="View full-size ChromoPlas output for MTRKPMMI01">
-<img src="{{ '/assets/img/chromoplas-mtrkpmmi01-output.webp' | relative_url }}" alt="Real ChromoPlas output for MTRKPMMI01 showing length-scaled assembled contigs with ARG, virulence factor, and MGE hits" width="1713" height="703" loading="lazy" decoding="async">
-</a>
-<figcaption><strong>Real output · MTRKPMMI01</strong><br>ChromoPlas output showing length-scaled assembled contigs and mapped resistance genes, virulence factors, and mobile genetic elements. Chromosome labels reflect the workflow’s predicted assignments. Select the image to view it full size.</figcaption>
+<figure class="academic-gallery-figure academic-science-figure academic-science-figure--wide">
+  <a href="{{ '/assets/img/chromoplas-mtrkpmmi01-output.webp' | relative_url }}" aria-label="View full-size ChromoPlas output for MTRKPMMI01">
+    <img src="{{ '/assets/img/chromoplas-mtrkpmmi01-output.webp' | relative_url }}" alt="Real ChromoPlas output for MTRKPMMI01 showing length-scaled assembled contigs with ARG, virulence factor, and MGE hits" width="1713" height="703" loading="lazy" decoding="async">
+  </a>
+  <figcaption><strong>Real output · MTRKPMMI01</strong><br>Length-scaled contigs with mapped resistance genes, virulence factors, and mobile genetic elements. Chromosome labels reflect the workflow’s predicted assignments. <a href="{{ '/assets/img/chromoplas-mtrkpmmi01-output.webp' | relative_url }}">View full-size figure →</a></figcaption>
 </figure>
 
 </section>
@@ -141,7 +142,7 @@ I presented the exploratory work at the 23rd Science Council of Asia Conference 
   </a>
   <figcaption>Examples of manual image annotation for <i>Trichuris</i>, <i>Balantidium</i>, and <i>Fasciola</i>.</figcaption>
 </figure>
-<div class="academic-gallery-grid"><figure class="academic-gallery-figure academic-science-figure">
+<div class="academic-gallery-grid academic-science-gallery"><figure class="academic-gallery-figure academic-science-figure">
   <a href="{{ '/assets/img/paramphistomum-detection.webp' | relative_url }}" aria-label="Annotated Paramphistomum egg detection in a microscopy image">
     <img src="{{ '/assets/img/paramphistomum-detection.webp' | relative_url }}" alt="Annotated Paramphistomum egg detection in a microscopy image" width="467" height="369" loading="lazy" decoding="async">
   </a>
