@@ -4,7 +4,7 @@ title: Moments
 permalink: /moments/
 nav: true
 nav_order: 3
-description: Conferences, poster awards, and fieldwork.
+description: Conferences, fieldwork, and memories with the MTR Lab team.
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url | bust_file_cache }}">
@@ -28,3 +28,31 @@ description: Conferences, poster awards, and fieldwork.
   <img src="{{ '/assets/img/horse-sampling.webp' | relative_url }}" width="900" height="675" decoding="async" loading="lazy" alt="Preparing a swab while a handler steadies a horse">
   <figcaption><strong>Sampling horses for my MS thesis</strong><br>I collected samples from horses and their surroundings to study antibiotic resistance in the bacteria we isolated.</figcaption>
 </figure>
+
+<section class="academic-section" id="mtr-lab-memories">
+<p class="academic-eyebrow">People behind the research</p>
+<h2>Memories with the MTR Lab family</h2>
+<p>With <a href="https://bau.edu.bd/profile/VMH1005">Prof. Dr. Md. Tanvir Rahman</a> and the MTR Lab research team. I am grateful for the guidance, friendship, and time we have shared—memories I will carry with me.</p>
+<div class="academic-gallery-grid academic-lab-memories">
+<figure class="academic-gallery-figure ">
+<a href="{{ '/assets/img/mtr-professor-rahman.webp' | relative_url }}" aria-label="Afsan Sarwer with Professor Dr. Md. Tanvir Rahman"><img src="{{ '/assets/img/mtr-professor-rahman.webp' | relative_url }}" alt="Afsan Sarwer with Professor Dr. Md. Tanvir Rahman" width="960" height="1280" loading="lazy" decoding="async"></a>
+<figcaption>With Prof. Dr. Md. Tanvir Rahman at BAU.</figcaption>
+</figure>
+<figure class="academic-gallery-figure ">
+<a href="{{ '/assets/img/mtr-lab-friendship.webp' | relative_url }}" aria-label="Afsan Sarwer sharing a lighthearted moment with a research teammate"><img src="{{ '/assets/img/mtr-lab-friendship.webp' | relative_url }}" alt="Afsan Sarwer sharing a lighthearted moment with a research teammate" width="961" height="1280" loading="lazy" decoding="async"></a>
+<figcaption>Friendship and laughter beyond the laboratory.</figcaption>
+</figure>
+<figure class="academic-gallery-figure ">
+<a href="{{ '/assets/img/mtr-team-celebration.webp' | relative_url }}" aria-label="Professor Rahman and members of the MTR Lab team celebrating together"><img src="{{ '/assets/img/mtr-team-celebration.webp' | relative_url }}" alt="Professor Rahman and members of the MTR Lab team celebrating together" width="1280" height="960" loading="lazy" decoding="async"></a>
+<figcaption>Celebrating together with Prof. Rahman and the research team.</figcaption>
+</figure>
+<figure class="academic-gallery-figure ">
+<a href="{{ '/assets/img/mtr-team-outdoors.webp' | relative_url }}" aria-label="MTR Lab research team gathered outdoors"><img src="{{ '/assets/img/mtr-team-outdoors.webp' | relative_url }}" alt="MTR Lab research team gathered outdoors" width="1280" height="960" loading="lazy" decoding="async"></a>
+<figcaption>A shared day with the MTR Lab team.</figcaption>
+</figure>
+<figure class="academic-gallery-figure ">
+<a href="{{ '/assets/img/mtr-mentor-moment.webp' | relative_url }}" aria-label="Afsan Sarwer spending time with Professor Rahman"><img src="{{ '/assets/img/mtr-mentor-moment.webp' | relative_url }}" alt="Afsan Sarwer spending time with Professor Rahman" width="1280" height="960" loading="lazy" decoding="async"></a>
+<figcaption>A quiet moment with my supervisor, Prof. Rahman.</figcaption>
+</figure>
+</div>
+</section>

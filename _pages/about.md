@@ -25,17 +25,7 @@ subtitle: DVM · MS in Microbiology · Bangladesh Agricultural University
   <figure class="academic-portrait">
     <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Afsan Sarwer" decoding="async">
   </figure>
-<div class="academic-culture-showcase"><figure class="academic-gallery-figure ">
-  <a href="{{ '/assets/img/horse-s-aureus-msa.webp' | relative_url }}" aria-label="Staphylococcus aureus from horses on an MSA plate">
-    <img src="{{ '/assets/img/horse-s-aureus-msa.webp' | relative_url }}" alt="Staphylococcus aureus from horses on an MSA plate" width="2048" height="2024" loading="lazy" decoding="async">
-  </a>
-  <figcaption><i>Staphylococcus aureus</i> from horses on mannitol salt agar (MSA).</figcaption>
-</figure><figure class="academic-gallery-figure ">
-  <a href="{{ '/assets/img/horse-e-faecalis-eab.webp' | relative_url }}" aria-label="Enterococcus faecalis from horses on an EAB plate">
-    <img src="{{ '/assets/img/horse-e-faecalis-eab.webp' | relative_url }}" alt="Enterococcus faecalis from horses on an EAB plate" width="1536" height="2048" loading="lazy" decoding="async">
-  </a>
-  <figcaption><i>Enterococcus faecalis</i> from horses on EAB.</figcaption>
-</figure></div>
+
 </div>
 </div>
 
@@ -77,12 +67,22 @@ subtitle: DVM · MS in Microbiology · Bangladesh Agricultural University
   <p>I also developed a YOLOv8 prototype for detecting livestock parasite eggs and cysts in microscopy images during an independent project in 2024, advised by Dr. A K M Anisur Rahman.</p>
   <p><a href="{{ '/research/' | relative_url }}">Research questions, individual contributions, and methods →</a></p>
 </div>
-<figure class="academic-gallery-figure academic-lab-photo">
+<div class="academic-lab-media"><figure class="academic-gallery-figure academic-lab-photo">
   <a href="{{ '/assets/img/lab-culture-work.webp' | relative_url }}" aria-label="Afsan Sarwer working with bacterial cultures in the laboratory">
     <img src="{{ '/assets/img/lab-culture-work.webp' | relative_url }}" alt="Afsan Sarwer working with bacterial cultures in the laboratory" width="1536" height="2048" loading="lazy" decoding="async">
   </a>
   <figcaption>Working with bacterial cultures in the MTR Lab.</figcaption>
-</figure>
+</figure><div class="academic-culture-showcase"><figure class="academic-gallery-figure ">
+  <a href="{{ '/assets/img/horse-s-aureus-msa.webp' | relative_url }}" aria-label="Staphylococcus aureus from horses on an MSA plate">
+    <img src="{{ '/assets/img/horse-s-aureus-msa.webp' | relative_url }}" alt="Staphylococcus aureus from horses on an MSA plate" width="2048" height="2024" loading="lazy" decoding="async">
+  </a>
+  <figcaption><i>Staphylococcus aureus</i> from horses on mannitol salt agar (MSA).</figcaption>
+</figure><figure class="academic-gallery-figure ">
+  <a href="{{ '/assets/img/horse-e-faecalis-eab.webp' | relative_url }}" aria-label="Enterococcus faecalis from horses on an EAB plate">
+    <img src="{{ '/assets/img/horse-e-faecalis-eab.webp' | relative_url }}" alt="Enterococcus faecalis from horses on an EAB plate" width="1536" height="2048" loading="lazy" decoding="async">
+  </a>
+  <figcaption><i>Enterococcus faecalis</i> from horses on EAB.</figcaption>
+</figure></div></div>
 </div>
 </section>
 
@@ -134,6 +134,10 @@ subtitle: DVM · MS in Microbiology · Bangladesh Agricultural University
   <figcaption>Receiving the Best Poster Presentation award in the Bioinformatics and Computational Biology category at SUST, 2025.</figcaption>
 </figure>
 
+<figure class="academic-gallery-figure academic-award-photo">
+<a href="{{ '/assets/img/gau-poster-presentation-2025.webp' | relative_url }}" aria-label="Presenting the seafood E. coli poster at the Gazipur Agricultural University International Conference in 2025"><img src="{{ '/assets/img/gau-poster-presentation-2025.webp' | relative_url }}" alt="Presenting the seafood E. coli poster at the Gazipur Agricultural University International Conference in 2025" width="1280" height="960" loading="lazy" decoding="async"></a>
+<figcaption><strong>First place · Best Poster Presentation</strong><br>Fisheries and Blue Economy category · Gazipur Agricultural University International Conference · 2025.</figcaption>
+</figure>
 </section>
 
 <section class="academic-section" id="activities">

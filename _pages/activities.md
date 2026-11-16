@@ -111,6 +111,17 @@ I designed content for publications and social media and helped manage district 
 
 As a volunteer graphic designer, I created content for social media and publications and coordinated with the team on visual communication.
 
+### Early community engagement
+
+**Team leader · Victory Day · 16 December 2015**
+
+I led the team representing Rani Bilasmoni Government Boys' High School, Gazipur, during Bangladesh’s Victory Day celebrations. This is a treasured memory of my community involvement during high school.
+
+<figure class="academic-gallery-figure academic-activity-figure">
+<a href="{{ '/assets/img/victory-day-school-2015.webp' | relative_url }}" aria-label="School team representing Rani Bilasmoni Government Boys High School in Gazipur on Victory Day 2015"><img src="{{ '/assets/img/victory-day-school-2015.webp' | relative_url }}" alt="School team representing Rani Bilasmoni Government Boys High School in Gazipur on Victory Day 2015" width="1280" height="720" loading="lazy" decoding="async"></a>
+<figcaption>Team leader representing Rani Bilasmoni Government Boys’ High School, Gazipur · Victory Day, 16 December 2015.</figcaption>
+</figure>
+
 </section>
 
 <section class="academic-section" id="certifications" markdown="1">
@@ -122,14 +133,35 @@ As a volunteer graphic designer, I created content for social media and publicat
 ### Courses & workshops
 
 - Machine Learning Workshop Using Python
-- Data Analysis with Python
+- [Data Analysis with Python · IBM](https://www.credly.com/badges/c8dd31b6-7bc5-4e45-a342-c957256fbe52/linked_in_profile)
 - Young Professional Smartification Level 1 (Job Readiness)
+
+<figure class="academic-gallery-figure academic-certification-badge">
+<a href="https://www.credly.com/badges/c8dd31b6-7bc5-4e45-a342-c957256fbe52/linked_in_profile" aria-label="View the Data Analysis with Python IBM digital credential on Credly"><img src="{{ '/assets/img/ibm-data-analysis-python-badge.webp' | relative_url }}" alt="View the Data Analysis with Python IBM digital credential on Credly" width="680" height="680" loading="lazy" decoding="async"></a>
+<figcaption><a href="https://www.credly.com/badges/c8dd31b6-7bc5-4e45-a342-c957256fbe52/linked_in_profile">Data Analysis with Python · IBM digital credential · View badge →</a></figcaption>
+</figure>
 
 ### Leadership training
 
 **Active Citizen · British Council · October 2019**
 
 I completed seven days of leadership training focused on community participation and sustainable social change, working with participants from different community groups.
+
+<figure class="academic-gallery-figure academic-activity-figure">
+<a href="{{ '/assets/img/active-citizens-training.webp' | relative_url }}" aria-label="British Council Active Citizens Youth Leadership Training participants at BAU"><img src="{{ '/assets/img/active-citizens-training.webp' | relative_url }}" alt="British Council Active Citizens Youth Leadership Training participants at BAU" width="1080" height="810" loading="lazy" decoding="async"></a>
+<figcaption>Active Citizens Youth Leadership Training · British Council · October 2019.</figcaption>
+</figure>
+
+### Bangladesh Youth Leadership Center (BYLC)
+
+**BYLC graduate**
+
+I am a graduate of Bangladesh Youth Leadership Center (BYLC). Attending the BYLC Youth Carnival in 2019 was a memorable part of my involvement with its community.
+
+<figure class="academic-gallery-figure academic-activity-figure">
+<a href="{{ '/assets/img/bylc-youth-carnival-2019.webp' | relative_url }}" aria-label="Afsan Sarwer at BYLC Youth Carnival 2019"><img src="{{ '/assets/img/bylc-youth-carnival-2019.webp' | relative_url }}" alt="Afsan Sarwer at BYLC Youth Carnival 2019" width="1280" height="606" loading="lazy" decoding="async"></a>
+<figcaption>BYLC Youth Carnival · 2019.</figcaption>
+</figure>
 
 ### Professional registration
 
