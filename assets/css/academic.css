@@ -348,3 +348,29 @@
     margin-inline: auto;
   }
 }
+
+.academic-lab-media {
+  min-width: 0;
+}
+.academic-lab-media .academic-culture-showcase {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+}
+.academic-lab-memories img {
+  height: 320px;
+}
+.academic-award-photo {
+  max-width: 640px;
+  margin: 2rem auto;
+}
+.academic-award-photo img {
+  height: auto;
+}
+.academic-certification-badge {
+  max-width: 220px;
+  margin: 1.5rem 0 2rem;
+}
+.academic-certification-badge img {
+  height: auto;
+}
