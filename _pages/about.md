@@ -31,6 +31,7 @@ subtitle: DVM · MS in Microbiology · Bangladesh Agricultural University
   <a href="#experience">Research experience</a>
   <a href="#selected-work">Selected work</a>
   <a href="#recognition">Awards</a>
+  <a href="#activities">Activities</a>
 </nav>
 
 <section class="academic-section" id="education">
@@ -92,6 +93,22 @@ subtitle: DVM · MS in Microbiology · Bangladesh Agricultural University
     <li><strong>Poster presentations</strong> · BSVER ASCon XXXIV, 2026, and the 23rd Science Council of Asia Conference, 2024</li>
   </ul>
   <p><a href="{{ '/moments/' | relative_url }}">Photos from conferences and fieldwork →</a></p>
+</section>
+
+<section class="academic-section" id="activities">
+  <p class="academic-eyebrow">Leadership &amp; community</p>
+  <h2>Activities &amp; affiliations</h2>
+  <div class="academic-grid">
+    <div class="academic-card">
+      <h3>Student leadership &amp; volunteering</h3>
+      <p>I served as General Secretary at Connecting Youth for Change and Joint Organizing Secretary at the BAU Career Club. My work included project coordination, documentation, and visual communication.</p>
+    </div>
+    <div class="academic-card">
+      <h3>Scientific communities &amp; learning</h3>
+      <p>I hold memberships in ISME and the World's Poultry Science Association, Bangladesh Branch. My professional development includes Python and machine learning courses, alongside leadership training.</p>
+    </div>
+  </div>
+  <p class="academic-followup"><a href="{{ '/activities/' | relative_url }}">Leadership roles, memberships, and certifications →</a></p>
 </section>
 
 <section class="academic-contact" aria-labelledby="contact-heading">
