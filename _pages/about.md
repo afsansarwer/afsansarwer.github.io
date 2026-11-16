@@ -71,12 +71,24 @@ subtitle: DVM · MS in Microbiology · Bangladesh Agricultural University
     <div class="academic-card">
       <p class="academic-meta">Published · Frontiers in Microbiology · 2026</p>
       <h3>Antibiotic-resistant <i>E. coli</i> from seafood</h3>
+<figure class="academic-work-figure">
+  <div class="academic-work-gallery">
+<a href="{{ '/assets/img/seafood-study-overview.webp' | relative_url }}" aria-label="View full image: Seafood study overview showing Bangladesh, tuna, crab, and shrimp"><img src="{{ '/assets/img/seafood-study-overview.webp' | relative_url }}" alt="Seafood study overview showing Bangladesh, tuna, crab, and shrimp" width="645" height="547" loading="lazy" decoding="async"></a><a href="{{ '/assets/img/seafood-plasmid-args.webp' | relative_url }}" aria-label="View full image: Plasmid-associated resistance genes in seafood isolate MTR_EC02"><img src="{{ '/assets/img/seafood-plasmid-args.webp' | relative_url }}" alt="Plasmid-associated resistance genes in seafood isolate MTR_EC02" width="774" height="525" loading="lazy" decoding="async"></a><a href="{{ '/assets/img/seafood-global-relationships.webp' | relative_url }}" aria-label="View full image: Global genomic relationships grouped by country and sample source"><img src="{{ '/assets/img/seafood-global-relationships.webp' | relative_url }}" alt="Global genomic relationships grouped by country and sample source" width="1535" height="1933" loading="lazy" decoding="async"></a>
+  </div>
+  <figcaption>Study overview, plasmid resistance genes, and global genomic relationships. Select an image to view the details.</figcaption>
+</figure>
       <p>Second author on a study comparing ten seafood isolates from Bangladesh with global genomes. My work included comparative genomic analysis and SNP phylogeny.</p>
       <p><a href="https://doi.org/10.3389/fmicb.2026.1737712">Read the article →</a></p>
     </div>
     <div class="academic-card">
       <p class="academic-meta">Open-source software · Public beta</p>
       <h3>ChromoPlas</h3>
+<figure class="academic-work-figure">
+  <a class="academic-work-diagram" href="{{ '/assets/img/chromoplas-architecture.svg' | relative_url }}" aria-label="View full-size ChromoPlas assembly architecture diagram">
+    <img src="{{ '/assets/img/chromoplas-architecture.svg' | relative_url }}" alt="Synthetic ChromoPlas example showing resistance genes, virulence factors, and mobile elements on chromosome-associated, plasmid-associated, and unresolved contigs" width="1160" height="568" loading="lazy" decoding="async">
+  </a>
+  <figcaption>Synthetic demonstration of assembly architecture. Illustrative data; chromosome and plasmid associations are predictions.</figcaption>
+</figure>
       <p>A Python workflow I developed to screen bacterial assemblies and map resistance and virulence genes to contigs with predicted chromosome or plasmid association. It produces genome figures and HTML/TSV reports.</p>
       <p><a href="https://github.com/afsansarwer/ChromoPlas">Code and validation scope →</a></p>
     </div>
