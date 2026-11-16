@@ -116,6 +116,13 @@ The workflow records the original contig coordinates and retains unresolved clas
 
 [Source code, installation, and validation notes](https://github.com/afsansarwer/ChromoPlas)
 
+<figure class="academic-gallery-figure academic-science-figure">
+<a href="{{ '/assets/img/chromoplas-mtrkpmmi01-output.webp' | relative_url }}" aria-label="View full-size ChromoPlas output for MTRKPMMI01">
+<img src="{{ '/assets/img/chromoplas-mtrkpmmi01-output.webp' | relative_url }}" alt="Real ChromoPlas output for MTRKPMMI01 showing length-scaled assembled contigs with ARG, virulence factor, and MGE hits" width="1713" height="703" loading="lazy" decoding="async">
+</a>
+<figcaption><strong>Real output · MTRKPMMI01</strong><br>ChromoPlas output showing length-scaled assembled contigs and mapped resistance genes, virulence factors, and mobile genetic elements. Chromosome labels reflect the workflow’s predicted assignments. Select the image to view it full size.</figcaption>
+</figure>
+
 </section>
 
 <section class="academic-section" markdown="1">

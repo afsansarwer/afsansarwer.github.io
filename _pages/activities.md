@@ -165,6 +165,11 @@ I am a graduate of Bangladesh Youth Leadership Center (BYLC). Attending the BYLC
 
 ### Professional registration
 
-**Registered Veterinarian**
+**Registered Veterinarian · Bangladesh Veterinary Council**
+
+<div class="academic-registration-logos" aria-label="Government of Bangladesh emblem and veterinary medicine symbol">
+<img src="{{ '/assets/img/bangladesh-government-emblem.webp' | relative_url }}" alt="Government of the People’s Republic of Bangladesh emblem" width="600" height="600" loading="lazy" decoding="async">
+<img src="{{ '/assets/img/veterinary-medicine-symbol.webp' | relative_url }}" alt="Veterinary medicine symbol" width="612" height="513" loading="lazy" decoding="async">
+</div>
 
 </section>

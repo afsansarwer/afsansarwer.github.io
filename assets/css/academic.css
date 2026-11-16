@@ -374,3 +374,19 @@
 .academic-certification-badge img {
   height: auto;
 }
+
+.academic-registration-logos {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.25rem;
+  margin-top: 1rem;
+}
+.academic-registration-logos img {
+  width: 90px;
+  height: 90px;
+  object-fit: contain;
+  background: #fff;
+  padding: 0.4rem;
+  border-radius: 0.3rem;
+}
