@@ -33,6 +33,15 @@ My contribution included comparative genome analysis and building a core-genome 
 
 Fahim, Sarwer, et al. · _Frontiers in Microbiology_ · 2026. [Read the publication](https://doi.org/10.3389/fmicb.2026.1737712)
 
+<div class="academic-news-feature">
+<p class="academic-eyebrow">Research in the news · Ineos Oxford Institute</p>
+<figure class="academic-gallery-figure academic-news-snapshot">
+  <a href="https://www.ineosoxford.ox.ac.uk/news/genomic-analysis-antibiotic-resistant-e-coli-seafood-bangladesh" aria-label="Read the Ineos Oxford Institute news feature on our seafood E. coli research">
+    <img src="{{ '/assets/img/oxford-seafood-news.webp' | relative_url }}" alt="Read the Ineos Oxford Institute news feature on our seafood E. coli research" width="1870" height="937" loading="lazy" decoding="async">
+  </a>
+  <figcaption><a href="https://www.ineosoxford.ox.ac.uk/news/genomic-analysis-antibiotic-resistant-e-coli-seafood-bangladesh">Genomic analysis of antibiotic-resistant <i>E. coli</i> from seafood in Bangladesh →</a></figcaption>
+</figure></div>
+
 </section>
 
 <section class="academic-section" id="thesis" markdown="1">
@@ -47,7 +56,25 @@ I collected horse and environmental samples, cultured bacteria, performed PCR-ba
 
 This work asks how phenotypic resistance relates to molecular findings and how bacterial characteristics differ among sample sources. It connects field sampling and laboratory microbiology with genomic interpretation.
 
-Supervised by Prof. Dr. Md. Tanvir Rahman and co-supervised by [Prof. Dr. Jayedul Hassan](https://bau.edu.bd/profile/VMH1015), Bangladesh Agricultural University.
+Supervised by [Prof. Dr. Md. Tanvir Rahman](https://bau.edu.bd/profile/VMH1005) and co-supervised by [Prof. Dr. Jayedul Hassan](https://bau.edu.bd/profile/VMH1015), Bangladesh Agricultural University.
+
+<figure class="academic-gallery-figure academic-science-figure">
+  <a href="{{ '/assets/img/equine-thesis-workflow.webp' | relative_url }}" aria-label="Workflow for the equine bacterial characterization study">
+    <img src="{{ '/assets/img/equine-thesis-workflow.webp' | relative_url }}" alt="Workflow for the equine bacterial characterization study" width="2047" height="1151" loading="lazy" decoding="async">
+  </a>
+  <figcaption>Study workflow from horse and environmental sampling to culture, phenotypic testing, and molecular detection.</figcaption>
+</figure>
+<div class="academic-gallery-grid"><figure class="academic-gallery-figure academic-science-figure">
+  <a href="{{ '/assets/img/r-equi-modified-medium.webp' | relative_url }}" aria-label="Rhodococcus equi culture on modified nutrient agar with supplements">
+    <img src="{{ '/assets/img/r-equi-modified-medium.webp' | relative_url }}" alt="Rhodococcus equi culture on modified nutrient agar with supplements" width="2048" height="1985" loading="lazy" decoding="async">
+  </a>
+  <figcaption><i>Rhodococcus equi</i> culture on modified nutrient agar with supplements.</figcaption>
+</figure><figure class="academic-gallery-figure academic-science-figure">
+  <a href="{{ '/assets/img/r-equi-staining.webp' | relative_url }}" aria-label="Rhodococcus equi Gram-staining image with an annotated enlarged panel">
+    <img src="{{ '/assets/img/r-equi-staining.webp' | relative_url }}" alt="Rhodococcus equi Gram-staining image with an annotated enlarged panel" width="2048" height="1103" loading="lazy" decoding="async">
+  </a>
+  <figcaption>Gram-staining image of <i>Rhodococcus equi</i>, with an annotated enlarged panel.</figcaption>
+</figure></div>
 
 </section>
 
@@ -62,6 +89,18 @@ I am comparing five vegetable-derived _E. coli_ isolates from Dhaka with publicl
 My work includes pangenome analysis, plasmid profiling, and comparison of resistance gene contexts. I want to understand whether similar resistance determinants occur in related bacterial lineages or across different genomic backgrounds.
 
 I presented this work at BSVER ASCon XXXIV in 2026. [Conference details]({{ '/publications/#conferences' | relative_url }})
+
+<figure class="academic-gallery-figure academic-science-figure">
+  <a href="{{ '/assets/img/vegetable-plasmid-network.webp' | relative_url }}" aria-label="Plasmid network from the vegetable-derived E. coli comparative genomics project">
+    <img src="{{ '/assets/img/vegetable-plasmid-network.webp' | relative_url }}" alt="Plasmid network from the vegetable-derived E. coli comparative genomics project" width="2048" height="1309" loading="lazy" decoding="async">
+  </a>
+  <figcaption>Plasmid network colored by AMR risk category, location, and sample source. Arrows identify the five vegetable isolates.</figcaption>
+</figure><figure class="academic-gallery-figure academic-science-figure">
+  <a href="{{ '/assets/img/vegetable-pangenome.webp' | relative_url }}" aria-label="Pangenome visualization of the five local vegetable-derived E. coli isolates">
+    <img src="{{ '/assets/img/vegetable-pangenome.webp' | relative_url }}" alt="Pangenome visualization of the five local vegetable-derived E. coli isolates" width="2048" height="1925" loading="lazy" decoding="async">
+  </a>
+  <figcaption>Pangenome visualization of the five vegetable-derived <i>E. coli</i> isolates.</figcaption>
+</figure>
 
 </section>
 
@@ -89,6 +128,23 @@ With advice from Dr. A K M Anisur Rahman, I developed a YOLOv8 prototype to dete
 
 I presented the exploratory work at the 23rd Science Council of Asia Conference in Dhaka in 2024. The study is available as a [bioRxiv preprint](https://doi.org/10.64898/2026.08.21.746375), posted in August 2026.
 
+<figure class="academic-gallery-figure academic-science-figure">
+  <a href="{{ '/assets/img/parasite-manual-annotations.webp' | relative_url }}" aria-label="Manual annotations of Trichuris, Balantidium, and Fasciola in microscopy images">
+    <img src="{{ '/assets/img/parasite-manual-annotations.webp' | relative_url }}" alt="Manual annotations of Trichuris, Balantidium, and Fasciola in microscopy images" width="1159" height="382" loading="lazy" decoding="async">
+  </a>
+  <figcaption>Examples of manual image annotation for <i>Trichuris</i>, <i>Balantidium</i>, and <i>Fasciola</i>.</figcaption>
+</figure>
+<div class="academic-gallery-grid"><figure class="academic-gallery-figure academic-science-figure">
+  <a href="{{ '/assets/img/paramphistomum-detection.webp' | relative_url }}" aria-label="Annotated Paramphistomum egg detection in a microscopy image">
+    <img src="{{ '/assets/img/paramphistomum-detection.webp' | relative_url }}" alt="Annotated Paramphistomum egg detection in a microscopy image" width="467" height="369" loading="lazy" decoding="async">
+  </a>
+  <figcaption><i>Paramphistomum</i> egg detection example.</figcaption>
+</figure><figure class="academic-gallery-figure academic-science-figure">
+  <a href="{{ '/assets/img/ascaris-detection.webp' | relative_url }}" aria-label="Annotated Ascaris microscopy image">
+    <img src="{{ '/assets/img/ascaris-detection.webp' | relative_url }}" alt="Annotated Ascaris microscopy image" width="249" height="362" loading="lazy" decoding="async">
+  </a>
+  <figcaption>Annotated <i>Ascaris</i> microscopy example.</figcaption>
+</figure></div>
 </section>
 
 <section class="academic-section" id="methods" markdown="1">

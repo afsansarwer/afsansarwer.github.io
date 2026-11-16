@@ -21,9 +21,22 @@ subtitle: DVM · MS in Microbiology · Bangladesh Agricultural University
       <a href="https://orcid.org/0009-0004-5089-3975">ORCID</a>
     </div>
   </div>
+  <div class="academic-profile-media">
   <figure class="academic-portrait">
     <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Afsan Sarwer" decoding="async">
   </figure>
+<div class="academic-culture-showcase"><figure class="academic-gallery-figure ">
+  <a href="{{ '/assets/img/horse-s-aureus-msa.webp' | relative_url }}" aria-label="Staphylococcus aureus from horses on an MSA plate">
+    <img src="{{ '/assets/img/horse-s-aureus-msa.webp' | relative_url }}" alt="Staphylococcus aureus from horses on an MSA plate" width="2048" height="2024" loading="lazy" decoding="async">
+  </a>
+  <figcaption><i>Staphylococcus aureus</i> from horses on mannitol salt agar (MSA).</figcaption>
+</figure><figure class="academic-gallery-figure ">
+  <a href="{{ '/assets/img/horse-e-faecalis-eab.webp' | relative_url }}" aria-label="Enterococcus faecalis from horses on an EAB plate">
+    <img src="{{ '/assets/img/horse-e-faecalis-eab.webp' | relative_url }}" alt="Enterococcus faecalis from horses on an EAB plate" width="1536" height="2048" loading="lazy" decoding="async">
+  </a>
+  <figcaption><i>Enterococcus faecalis</i> from horses on EAB.</figcaption>
+</figure></div>
+</div>
 </div>
 
 <nav class="academic-jump-links" aria-label="On this page">
@@ -57,11 +70,20 @@ subtitle: DVM · MS in Microbiology · Bangladesh Agricultural University
 <section class="academic-section" id="experience">
   <p class="academic-eyebrow">Laboratory &amp; computational work</p>
   <h2>Research experience</h2>
+<div class="academic-experience-layout"><div>
   <h3>Research Assistant · MTR Lab</h3>
   <p class="academic-meta">Bangladesh Agricultural University · April 2025–present</p>
-  <p>Under Prof. Dr. Md. Tanvir Rahman, I analyze bacterial genomes for resistance genes, virulence factors, plasmids, and genomic relationships. I build and troubleshoot Linux workflows, validate outputs, prepare figures, and contribute to manuscripts. My laboratory work includes sampling, bacterial isolation, phenotypic characterization, and PCR.</p>
+  <p>Under <a href="https://bau.edu.bd/profile/VMH1005">Prof. Dr. Md. Tanvir Rahman</a>, I analyze bacterial genomes for resistance genes, virulence factors, plasmids, and genomic relationships. I build and troubleshoot Linux workflows, validate outputs, prepare figures, and contribute to manuscripts. My laboratory work includes sampling, bacterial isolation, phenotypic characterization, and PCR.</p>
   <p>I also developed a YOLOv8 prototype for detecting livestock parasite eggs and cysts in microscopy images during an independent project in 2024, advised by Dr. A K M Anisur Rahman.</p>
   <p><a href="{{ '/research/' | relative_url }}">Research questions, individual contributions, and methods →</a></p>
+</div>
+<figure class="academic-gallery-figure academic-lab-photo">
+  <a href="{{ '/assets/img/lab-culture-work.webp' | relative_url }}" aria-label="Afsan Sarwer working with bacterial cultures in the laboratory">
+    <img src="{{ '/assets/img/lab-culture-work.webp' | relative_url }}" alt="Afsan Sarwer working with bacterial cultures in the laboratory" width="1536" height="2048" loading="lazy" decoding="async">
+  </a>
+  <figcaption>Working with bacterial cultures in the MTR Lab.</figcaption>
+</figure>
+</div>
 </section>
 
 <section class="academic-section" id="selected-work">
@@ -105,6 +127,13 @@ subtitle: DVM · MS in Microbiology · Bangladesh Agricultural University
     <li><strong>Poster presentations</strong> · BSVER ASCon XXXIV, 2026, and the 23rd Science Council of Asia Conference, 2024</li>
   </ul>
   <p><a href="{{ '/moments/' | relative_url }}">Photos from conferences and fieldwork →</a></p>
+<figure class="academic-gallery-figure academic-banner-photo">
+  <a href="{{ '/assets/img/sust-award-stage.webp' | relative_url }}" aria-label="Award presentation on stage at the International Conference of Life Sciences, SUST">
+    <img src="{{ '/assets/img/sust-award-stage.webp' | relative_url }}" alt="Award presentation on stage at the International Conference of Life Sciences, SUST" width="1280" height="320" loading="lazy" decoding="async">
+  </a>
+  <figcaption>Receiving the Best Poster Presentation award in the Bioinformatics and Computational Biology category at SUST, 2025.</figcaption>
+</figure>
+
 </section>
 
 <section class="academic-section" id="activities">
@@ -121,6 +150,18 @@ subtitle: DVM · MS in Microbiology · Bangladesh Agricultural University
     </div>
   </div>
   <p class="academic-followup"><a href="{{ '/activities/' | relative_url }}">Leadership roles, memberships, and certifications →</a></p>
+<div class="academic-gallery-grid"><figure class="academic-gallery-figure ">
+  <a href="{{ '/assets/img/team-utshob-community.webp' | relative_url }}" aria-label="Team Utshob group photo on the BAU campus">
+    <img src="{{ '/assets/img/team-utshob-community.webp' | relative_url }}" alt="Team Utshob group photo on the BAU campus" width="1024" height="748" loading="lazy" decoding="async">
+  </a>
+  <figcaption>Team Utshob — cultural activities and campus community at BAU.</figcaption>
+</figure><figure class="academic-gallery-figure ">
+  <a href="{{ '/assets/img/tedxbau-moment.webp' | relative_url }}" aria-label="Afsan Sarwer at TEDxBAU">
+    <img src="{{ '/assets/img/tedxbau-moment.webp' | relative_url }}" alt="Afsan Sarwer at TEDxBAU" width="1440" height="1440" loading="lazy" decoding="async">
+  </a>
+  <figcaption>A moment at TEDxBAU.</figcaption>
+</figure></div>
+
 </section>
 
 <section class="academic-contact" aria-labelledby="contact-heading">
