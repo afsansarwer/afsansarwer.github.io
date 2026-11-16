@@ -42,7 +42,7 @@ subtitle: DVM · MS in Microbiology · Bangladesh Agricultural University
       <h3>MS in Microbiology</h3>
       <p>Department of Microbiology and Hygiene, Faculty of Veterinary Science<br>Bangladesh Agricultural University</p>
       <p>My MS thesis examined <i>Staphylococcus aureus</i>, <i>Enterococcus faecalis</i>, and <i>Rhodococcus equi</i> from horses and associated environments using molecular and phenotypic methods.</p>
-      <p class="academic-meta">Supervisor · Prof. Dr. Md. Tanvir Rahman<br>Co-supervisor · <a href="https://bau.edu.bd/profile/VMH1015">Prof. Dr. Jayedul Hassan</a></p>
+      <p class="academic-meta">Supervisor · <a href="https://bau.edu.bd/profile/VMH1005">Prof. Dr. Md. Tanvir Rahman</a><br>Co-supervisor · <a href="https://bau.edu.bd/profile/VMH1015">Prof. Dr. Jayedul Hassan</a></p>
     </div>
     <div class="academic-card">
       <p class="academic-meta">2019–2025</p>
