@@ -37,13 +37,33 @@ description: Extracurricular activities, leadership, memberships, certifications
 
 ## Leadership & service
 
+### Team Utshob (টিম উৎসব)
+
+<p class="academic-meta">Founding Member · February 2020–May 2024</p>
+
+I helped establish a cultural group at Bangladesh Agricultural University with fellow students and contributed to its early development.
+
+<figure class="academic-activity-figure">
+  <a href="{{ '/assets/img/team-utshob-ek-cup-cha.webp' | relative_url }}" aria-label="View full image: Participants gathered for music at Team Utshob’s Ek Cup Cha program">
+    <img src="{{ '/assets/img/team-utshob-ek-cup-cha.webp' | relative_url }}" alt="Participants gathered for music at Team Utshob’s Ek Cup Cha program" width="1280" height="853" loading="lazy" decoding="async">
+  </a>
+  <figcaption><strong>Ek Cup Cha · February 2020</strong><br>Our first and signature program celebrated the tea culture of Bangladesh and Mymensingh. Local props, music, and a festive setting brought the BAU campus community together.</figcaption>
+</figure>
+
 ### Bangladesh Agricultural University Career Club (BAUCC)
 
 - **Joint Organizing Secretary** · December 2021–March 2023
 - **Digital Content Creator** · March 2020–December 2021
 - **Executive Member** · January 2019–February 2020
 
-I coordinated between operational teams and the club's administrative body, and developed visual styles for print and online publications.
+I coordinated between operational teams and the club's administrative body, and developed a consistent theme and style for print and online publications to support event participation and social media engagement.
+
+<figure class="academic-activity-figure">
+  <a href="{{ '/assets/img/baucc-publications.webp' | relative_url }}" aria-label="View full image: Afsan Sarwer receiving a certificate at a BAU Career Club event">
+    <img src="{{ '/assets/img/baucc-publications.webp' | relative_url }}" alt="Afsan Sarwer receiving a certificate at a BAU Career Club event" width="800" height="533" loading="lazy" decoding="async">
+  </a>
+  <figcaption><strong>BAU Career Club</strong><br>I developed a consistent visual identity for the club’s printed and online publications.</figcaption>
+</figure>
 
 ### Connecting Youth for Change (CYC)
 
@@ -53,23 +73,31 @@ I coordinated between operational teams and the club's administrative body, and 
 
 I helped plan and deliver youth projects, including the Online Exchange Program, Seasons 1 and 2. My responsibilities included coordinating teams, logistics, documentation, and communication.
 
+<figure class="academic-activity-figure">
+  <a href="{{ '/assets/img/cyc-book-club-initiative-2.webp' | relative_url }}" aria-label="View full image: Afsan Sarwer speaking with students and CYC volunteers at Book Club Initiative 2">
+    <img src="{{ '/assets/img/cyc-book-club-initiative-2.webp' | relative_url }}" alt="Afsan Sarwer speaking with students and CYC volunteers at Book Club Initiative 2" width="960" height="748" loading="lazy" decoding="async">
+  </a>
+  <figcaption><strong>Book Club Initiative 2</strong><br>One of CYC’s signature programs, encouraging young students to read and helping establish a library within their school.</figcaption>
+</figure>
+
+### Hult Prize BAU 2019
+
+<p class="academic-meta">Media and Communication Coordinator · September–December 2019</p>
+
+I supported campus promotion and social media communication to encourage students to participate in the competition.
+
+<figure class="academic-activity-figure academic-activity-poster">
+  <a href="{{ '/assets/img/hult-prize-bau-2019.webp' | relative_url }}" aria-label="View full image: Hult Prize BAU 2019 team announcement featuring Afsan Sarwer as Media and Communication Coordinator">
+    <img src="{{ '/assets/img/hult-prize-bau-2019.webp' | relative_url }}" alt="Hult Prize BAU 2019 team announcement featuring Afsan Sarwer as Media and Communication Coordinator" width="800" height="800" loading="lazy" decoding="async">
+  </a>
+  <figcaption><strong>Media &amp; Communication Coordinator · 2019</strong><br>I supported campus promotion and social media communication for Hult Prize at BAU.</figcaption>
+</figure>
+
 ### Rotaract Club of Bhawal Green
 
 <p class="academic-meta">Joint Secretary · July 2020–June 2021</p>
 
 I helped organize community service and member development activities, including a polio vaccination drive and environmental projects.
-
-### টিম উৎসব
-
-<p class="academic-meta">Founding Member · February 2020–May 2024</p>
-
-I helped establish a cultural group at Bangladesh Agricultural University with fellow students and contributed to its early development.
-
-### Hult Prize Foundation
-
-<p class="academic-meta">Media and Communication Coordinator · September–December 2019</p>
-
-I supported campus promotion and social media communication to encourage students to participate in the competition.
 
 ### Interact District Organization, RID 3281 Bangladesh
 
