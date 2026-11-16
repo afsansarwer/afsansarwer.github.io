@@ -21,7 +21,7 @@ description: Extracurricular activities, leadership, memberships, certifications
 
 <p class="academic-eyebrow">Scientific &amp; veterinary communities</p>
 
-## Memberships
+<h2>Memberships</h2>
 
 | Organization                                           | Membership                  | Dates               |
 | ------------------------------------------------------ | --------------------------- | ------------------- |
