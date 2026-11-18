@@ -14,7 +14,7 @@ let toggleThemeSetting = () => {
 
 // Change the theme setting and apply the theme.
 let setThemeSetting = (themeSetting) => {
-  localStorage.setItem("theme", themeSetting);
+  localStorage.setItem("portfolio-theme", themeSetting);
 
   document.documentElement.setAttribute("data-theme-setting", themeSetting);
 
@@ -261,11 +261,12 @@ let transTheme = () => {
 };
 
 // Determine the expected state of the theme toggle, which can be "dark", "light", or
-// "system". Default is "light".
+// "system". Default is "system", following the visitor's OS preference.
 let determineThemeSetting = () => {
-  let themeSetting = localStorage.getItem("theme");
+  // Use a new key so the previous automatically saved light default is not treated as a visitor choice.
+  let themeSetting = localStorage.getItem("portfolio-theme");
   if (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") {
-    themeSetting = "light";
+    themeSetting = "system";
   }
   return themeSetting;
 };

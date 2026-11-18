@@ -5,5 +5,5 @@ overrides:
     gem_version: 1.0.15
     upstream_path: assets/js/theme.js
     upstream_sha256: a1a07af6a468a10fc06ff3cf71d30b1b38ae8dc81674e8448c978080bbb78b81
-    local_sha256: 3dc70a3482736b7ed5f0415bf72047981e971731d410b5dc03237f02a6af51e3
-    acknowledged_at: "2026-11-16"
+    local_sha256: acfa1bdae80b348424236254e27218621e6fb4bf55fd4a3e6da0d5a086a06e25
+    acknowledged_at: "2026-11-18"
